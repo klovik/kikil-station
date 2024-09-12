@@ -1,2 +1,2 @@
-trait-name-Nearsighted = Nearsighted
-trait-description-Nearsighted = You require glasses to see properly.
+trait-name-Nearsighted = Близорукость
+trait-description-Nearsighted = Вам нужны очки, чтобы нормально видеть.

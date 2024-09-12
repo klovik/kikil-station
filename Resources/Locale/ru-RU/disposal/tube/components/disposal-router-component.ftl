@@ -1,10 +1,10 @@
 ## UI
 
-disposal-router-window-title = Disposal Router
-disposal-router-window-tags-label = Tags:
-disposal-router-window-tag-input-tooltip = A comma separated list of tags
-disposal-router-window-tag-input-confirm-button = Confirm
+disposal-router-window-title = Маршрутизатор Утилизации
+disposal-router-window-tags-label = Теги:
+disposal-router-window-tag-input-tooltip = Список тегов, разделённых запятой
+disposal-router-window-tag-input-confirm-button = Подтвердить
 
 ## ConfigureVerb
 
-configure-verb-get-data-text = Open Configuration
+configure-verb-get-data-text = Открыть Конфигурацию
