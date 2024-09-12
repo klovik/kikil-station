@@ -1,30 +1,30 @@
-execution-verb-name = Execute
-execution-verb-message = Use your weapon to execute someone.
+execution-verb-name = Казнить
+execution-verb-message = Используйте своё оружие, чтобы казнить кого-либо.
 
 # All the below localisation strings have access to the following variables
 # attacker (the person committing the execution)
 # victim (the person being executed)
 # weapon (the weapon used for the execution)
 
-execution-popup-gun-initial-internal = You ready the muzzle of {THE($weapon)} against {$victim}'s head.
-execution-popup-gun-initial-external = {$attacker} readies the muzzle of {THE($weapon)} against {$victim}'s head.
-execution-popup-gun-complete-internal = You blast {$victim} in the head!
-execution-popup-gun-complete-external = {$attacker} blasts {$victim} in the head!
-execution-popup-gun-clumsy-internal = You miss {$victim}'s head and shoot your foot instead!
-execution-popup-gun-clumsy-external = {$attacker} misses {$victim} and shoots {POSS-ADJ($attacker)} foot instead!
-execution-popup-gun-empty = {CAPITALIZE(THE($weapon))} clicks.
+execution-popup-gun-initial-internal = Вы направляете дуло {$weapon} на голову {$victim}.
+execution-popup-gun-initial-external = {$attacker} напрявлет дуло {$weapon} на голову {$victim}.
+execution-popup-gun-complete-internal = Вы выстреливаете {$victim} в голову!
+execution-popup-gun-complete-external = {$attacker} выстреливает {$victim} в голову!
+execution-popup-gun-clumsy-internal = Вы не попадаете в голову {$victim} и стреляете себе в ногу!
+execution-popup-gun-clumsy-external = {$attacker} не попадает в {$victim} и стреляет себе в ногу!
+execution-popup-gun-empty = {CAPITALIZE($weapon)} щелкает.
 
-suicide-popup-gun-initial-internal = You place the muzzle of {THE($weapon)} in your mouth.
-suicide-popup-gun-initial-external = {$attacker} places the muzzle of {THE($weapon)} in {POSS-ADJ($attacker)} mouth.
-suicide-popup-gun-complete-internal = You shoot yourself in the head!
-suicide-popup-gun-complete-external = {$attacker} shoots {REFLEXIVE($attacker)} in the head!
+suicide-popup-gun-initial-internal = Вы вставляете дуло {$weapon} в рот.
+suicide-popup-gun-initial-external = {$attacker} вставляет дуло {$weapon} в свой рот.
+suicide-popup-gun-complete-internal = Вы выстреливаете себе в голову!
+suicide-popup-gun-complete-external = {$attacker} выстреливает себе в голову!
 
-execution-popup-melee-initial-internal = You ready {THE($weapon)} against {$victim}'s throat.
-execution-popup-melee-initial-external = {$attacker} readies {POSS-ADJ($attacker)} {$weapon} against the throat of {$victim}.
-execution-popup-melee-complete-internal = You slit the throat of {$victim}!
-execution-popup-melee-complete-external = {$attacker} slits the throat of {$victim}!
+execution-popup-melee-initial-internal = Вы прикладываете {$weapon} к горлу {$victim}.
+execution-popup-melee-initial-external = {$attacker} прикладывает {$weapon} к горлу {$victim}.
+execution-popup-melee-complete-internal = Вы перерезаете горло {$victim}!
+execution-popup-melee-complete-external = {$attacker} перерезает горло {$victim}!
 
-suicide-popup-melee-initial-internal = You ready {THE($weapon)} against your throat.
-suicide-popup-melee-initial-external = {$attacker} readies {POSS-ADJ($attacker)} {$weapon} against {POSS-ADJ($attacker)} throat.
-suicide-popup-melee-complete-internal = You slit your throat with {THE($weapon)}!
-suicide-popup-melee-complete-external = {$attacker} slits {POSS-ADJ($attacker)} throat with {THE($weapon)}!
+suicide-popup-melee-initial-internal = Вы прикладываете {$weapon} к своему горлу.
+suicide-popup-melee-initial-external = {$attacker} прикладывает {$weapon} к своему горлу.
+suicide-popup-melee-complete-internal = Вы перерезаете своё горло {$weapon}!
+suicide-popup-melee-complete-external = {$attacker} перерезает своё горло с помощью {$weapon}!
