@@ -7,7 +7,7 @@ ui-disposal-unit-label-pressure = Давление:
 ui-disposal-unit-label-status = Готов
 
 ui-disposal-unit-button-flush = Смыть
-ui-disposal-unit-button-eject = Извлечь содержимое
+ui-disposal-unit-button-eject = Извлечь
 ui-disposal-unit-button-power = Питание
 
 ## Verbs
