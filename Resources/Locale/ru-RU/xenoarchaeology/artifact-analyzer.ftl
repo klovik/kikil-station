@@ -1,35 +1,36 @@
-analysis-console-menu-title = analysis console
-analysis-console-server-list-button = Server List
-analysis-console-scan-button = Scan
-analysis-console-scan-tooltip-info = Scan artifacts to learn information about their structure.
-analysis-console-print-button = Print
-analysis-console-print-tooltip-info = Print out the current information about the artifact.
-analysis-console-extract-button = Extract
-analysis-console-extract-button-info = Extract points from an artifact based on the newly explored nodes.
+analysis-console-menu-title = Аналитическая консоль
+analysis-console-server-list-button = Список серверов
+analysis-console-scan-button = Сканировать
+analysis-console-scan-tooltip-info = Сканируйте артефакты чтобы получить данные об их структуре
+analysis-console-print-button = Печатать
+analysis-console-print-tooltip-info = Распечатать текущую информацию об артефакте
+analysis-console-extract-button = Извлечь
+analysis-console-extract-button-info = Извлечь очки исследований из артефакта, зависящие от количества исследованных узлов
 
-analysis-console-info-no-scanner = No analyzer connected! Please connect one using a multitool.
-analysis-console-info-no-artifact = No artifact present! Place one on the pad then scan for information.
-analysis-console-info-ready = Systems operational. Ready to scan.
+analysis-console-info-no-scanner = Анализатор не найден! Подключите его, используя мультитул.
+analysis-console-info-no-artifact = Артефакт не найден!
+analysis-console-info-ready = Системы в норме. Сканирование готово.
 
-analysis-console-info-id = NODE_ID: {$id}
-analysis-console-info-depth = DEPTH: {$depth}
-analysis-console-info-triggered-true = ACTIVATED: TRUE
-analysis-console-info-triggered-false = ACTIVATED: FALSE
-analysis-console-info-effect = REACTION: {$effect}
-analysis-console-info-trigger = STIMULUS: {$trigger}
-analysis-console-info-edges = EDGES: {$edges}
-analysis-console-info-value = UNEXTRACTED_VALUE: {$value}
+analysis-console-info-id = ID_УЗЛА: {$id}
+analysis-console-info-depth = ГЛУБИНА: {$depth}
+analysis-console-info-triggered-true = АКТИВИРОВАН: ДА
+analysis-console-info-triggered-false = АКТИВИРОВАН: НЕТ
+analysis-console-info-effect = РЕАКЦИЯ: {$effect}
+analysis-console-info-trigger = СТИМУЛЯТОР: {$trigger}
+analysis-console-info-edges = СОЕДИНЕНИЙ: {$edges}
+analysis-console-info-value = ОЧКИ ИССЛЕДОВАНИЙ: {$value}
 
-analysis-console-info-scanner = Scanning...
-analysis-console-info-scanner-paused = Paused.
-analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} second
-    *[other] T-{$seconds} seconds
-}
+analysis-console-info-scanner = Сканирование...
+analysis-console-info-scanner-paused = Сканирование приостановлено.
+analysis-console-progress-text =
+    { $seconds ->
+        [one] T-{ $seconds } секунда
+        [few] T-{ $seconds } секунды
+       *[other] T-{ $seconds } секунд
+    }
+analyzer-artifact-component-upgrade-analysis = длительность анализа
 
-analyzer-artifact-component-upgrade-analysis = analysis duration
+analysis-console-print-popup = Консоль печатает отчёт.
+analyzer-artifact-extract-popup = Энергия мерцает на поверхности артефактаа!
 
-analysis-console-print-popup = The console printed out a report.
-analyzer-artifact-extract-popup = Energy shimmers on the artifact's surface!
-
-analysis-report-title = Artifact Report: Node {$id}
+analysis-report-title = Отчёт об артефакте: Узел {$id}
