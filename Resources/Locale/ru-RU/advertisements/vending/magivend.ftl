@@ -1,12 +1,12 @@
-advertisement-magivend-1 = Sling spells the proper way with MagiVend!
-advertisement-magivend-2 = Be your own Houdini! Use MagiVend!
-advertisement-magivend-3 = FJKLFJSD
-advertisement-magivend-4 = AJKFLBJAKL
-advertisement-magivend-5 = >MFW
-advertisement-magivend-6 = HONK!
-advertisement-magivend-7 = EI NATH
-advertisement-magivend-8 = Destroy the station!
-advertisement-magivend-9 = Space-time bending hardware!
-advertisement-magivend-10 = 1234 LOONIES LOL!
-advertisement-magivend-11 = NAR'SIE, RISE!!!
+advertisement-magivend-1 = Накладывайте заклинания правильным способом с MagiVend!
+advertisement-magivend-2 = Станьте своим собственным Гудини! Используйте MagiVend!
+advertisement-magivend-3 = ПРУГВТЩ
+advertisement-magivend-4 = УРЧГЦЙК
+advertisement-magivend-5 = %ЩУЬ
+advertisement-magivend-6 = ХОНК!
+advertisement-magivend-7 = ИЛ НАТХ
+advertisement-magivend-8 = Уничтожьте станцию!
+advertisement-magivend-9 = Оборудование для изменения пространства-времени!
+advertisement-magivend-10 = 1234 ЛУНИ ЛОЛ!
+advertisement-magivend-11 = НАР'СИ, ПОДЪЕМ!!!
 

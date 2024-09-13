@@ -2,7 +2,7 @@
 
 admin-menu-title = Админ Меню
 admin-menu-admin-tab = Админ
-admin-menu-adminbus-tab = Adminbus
+admin-menu-adminbus-tab = АдминАбуз
 admin-menu-atmos-tab = Атмос
 admin-menu-round-tab = Раунд
 admin-menu-server-tab = Сервер

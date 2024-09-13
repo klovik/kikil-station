@@ -1,4 +1,4 @@
-advertisement-hydrobe-1 = Do you love soil? Then buy our clothes!
-advertisement-hydrobe-2 = Get outfits to match your green thumb here!
-advertisement-hydrobe-3 = Here to give you an outfit perfect for handling plants!
-advertisement-hydrobe-4 = Perfect outfits for tree huggers... or just literal trees!
+advertisement-hydrobe-1 = Вы любите почву? Тогда покупайте нашу одежду!
+advertisement-hydrobe-2 = Приобретайте наряды, соответствующие вашему зеленому пальчику, здесь!
+advertisement-hydrobe-3 = Здесь вы найдете наряд, идеально подходящий для работы с растениями!
+advertisement-hydrobe-4 = Идеальные наряды для любителей обнимать деревья... или просто деревья в буквальном смысле!

@@ -1,6 +1,6 @@
-﻿advertisement-megaseed-1 = We like plants!
-advertisement-megaseed-2 = Grow some crops
-advertisement-megaseed-3 = Grow, baby, growww!
-advertisement-megaseed-4 = Aw h'yeah son!
-advertisement-megaseed-5 = Mutating plants is fun!
-advertisement-megaseed-6 = All in for GMO!
+﻿advertisement-megaseed-1 = Мы любим растения!
+advertisement-megaseed-2 = Выращивай урожай
+advertisement-megaseed-3 = Расти, малыш, растиии!
+advertisement-megaseed-4 = О да!
+advertisement-megaseed-5 = Мутировать растения - это весело!
+advertisement-megaseed-6 = Всё на ГМО!

@@ -1,4 +1,3 @@
-advertisement-robodrobe-1 = You turn me TRUE, use defines!
-advertisement-robodrobe-2 = 0110001101101100011011110111010001101000011001010111001101101000011001010111001001100101
-advertisement-robodrobe-3 = Steal someone from maintenance and turn them into a robot!
-advertisement-robodrobe-4 = Robotics is fun!
+advertisement-robodrobe-1 = 110100001011111011010000101101001101000010110101110100001011011011010000101101001101000010110000100000110100011000001011010001100000111101000110000010
+advertisement-robodrobe-2 = Украдите кого-нибудь из обслуживающего персонала и превратите его в робота!
+advertisement-robodrobe-3 = Робототехника - это весело!

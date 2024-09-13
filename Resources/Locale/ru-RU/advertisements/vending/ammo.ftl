@@ -1,11 +1,11 @@
-﻿advertisement-ammo-1 = Liberation Station: Your one-stop shop for all things second amendment!
-advertisement-ammo-2 = Be a patriot today, pick up a gun!
-advertisement-ammo-3 = Quality weapons for cheap prices!
-advertisement-ammo-4 = Better dead than red!
-advertisement-ammo-5 = Float like an astronaut, sting like a bullet!
-advertisement-ammo-6 = Express your second amendment today!
-advertisement-ammo-7 = Guns don't kill people, but you can!
-advertisement-ammo-8 = Who needs responsibilities when you have guns?
-advertisement-ammo-9 = Murdering people is fun!
-advertisement-ammo-10 = Go shoot 'em up!
+﻿advertisement-ammo-1 = Станция Либерализма: Ваш универсальный магазин для всех вещей, связанных со второй поправкой!
+advertisement-ammo-2 = Станьте патриотом сегодня, возьмите в руки оружие!
+advertisement-ammo-3 = Качественное оружие по низким ценам!
+advertisement-ammo-4 = Лучше мертвый, чем красный!
+advertisement-ammo-5 = Парите как космонавт, жальте как пуля!
+advertisement-ammo-6 = Выразите свою вторую поправку уже сегодня!
+advertisement-ammo-7 = Оружие не убивает людей, но вы можете!
+advertisement-ammo-8 = Кому нужны обязанности, когда есть оружие?
+advertisement-ammo-9 = Убивать людей - это весело!
+advertisement-ammo-10 = Стреляйте в них!
 

@@ -1,11 +1,11 @@
-﻿advertisement-dinnerware-1 = Mm, food stuffs!
-advertisement-dinnerware-2 = Food and food accessories.
-advertisement-dinnerware-3 = Get your plates!
-advertisement-dinnerware-4 = You like forks?
-advertisement-dinnerware-5 = I like forks.
-advertisement-dinnerware-6 = Woo, utensils.
-advertisement-dinnerware-7 = You don't really need these...
-advertisement-dinnerware-8 = Take them if you want them!
-advertisement-dinnerware-9 = I'm pretty sure beakers are a must-have.
-advertisement-dinnerware-10 = WHY ARE THERE SO MANY KINDS OF MUGS?
+﻿advertisement-dinnerware-1 = Мм, продукты!
+advertisement-dinnerware-2 = Продукты питания и пищевые аксессуары.
+advertisement-dinnerware-3 = Получите свои тарелки!
+advertisement-dinnerware-4 = Вам нравятся вилки?
+advertisement-dinnerware-5 = Мне нравятся вилки.
+advertisement-dinnerware-6 = У, посуда.
+advertisement-dinnerware-7 = Они вам не нужны...
+advertisement-dinnerware-8 = Возьмите их, если они вам нужны!
+advertisement-dinnerware-9 = Я уверен, что мензурки - это обязательное условие.
+advertisement-dinnerware-10 = ПОЧЕМУ ЗДЕСЬ ТАК МНОГО РАЗНЫХ ВИДОВ КРУЖЕК?
 

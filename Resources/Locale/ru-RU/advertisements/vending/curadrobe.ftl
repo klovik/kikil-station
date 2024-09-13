@@ -1,3 +1,3 @@
-advertisement-curadrobe-1 = Glasses for your eyes and literature for your soul, CuraDrobe has it all!
-advertisement-curadrobe-2 = Impress & enthrall your library guests with CuraDrobe's extended line of pens!
-advertisement-curadrobe-3 = Become the official owner of the library with this great selection of outfits!
+advertisement-curadrobe-1 = Очки для глаз и литература для души - в CuraDrobe есть все!
+advertisement-curadrobe-2 = Впечатлите и поразите гостей вашей библиотеки с помощью расширенной линейки ручек CuraDrobe!
+advertisement-curadrobe-3 = Станьте официальным владельцем библиотеки с помощью этой великолепной подборки нарядов!

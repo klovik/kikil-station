@@ -1,23 +1,23 @@
-﻿advertisement-solsnack-1 = We cut all the red-tape so that you can have diarrhea!
-advertisement-solsnack-2 = Food safety standards are merely a suggestion if you know the right people!
-advertisement-solsnack-3 = Snacks from home, corruption included!
-advertisement-solsnack-4 = A taste of home!
+﻿advertisement-solsnack-1 = Мы отменили все бюрократические проволочки, чтобы у вас был понос!
+advertisement-solsnack-2 = Стандарты безопасности пищевых продуктов - это всего лишь предложение, если вы знаете нужных людей!
+advertisement-solsnack-3 = Закуски из дома, коррупция прилагается!
+advertisement-solsnack-4 = Вкус родины!
 
-advertisement-weebvend-1 = Konnichiwa gaijin senpai!
-advertisement-weebvend-2 = Notice me senpai!
-advertisement-weebvend-3 = Kawaii-desu!
+advertisement-weebvend-1 = Коничива гайдзин сенпай!
+advertisement-weebvend-2 = Заметь меня, сенпай!
+advertisement-weebvend-3 = Каваии-десу!
 
-advertisement-hotfood-1 = Get your stale, crumbling food here! Sol's national dish has never tasted better!
-advertisement-hotfood-2 = If this is the food waiting for you at home, it's no wonder you're hiding here.
-advertisement-hotfood-3 = Solarian food products, served with a side of diarrhea as always!
-advertisement-hotfood-4 = Revenge is a dish best served warm.
+advertisement-hotfood-1 = Получите свою несвежую, разваливающуюся еду здесь! Национальное блюдо Сола еще никогда не было таким вкусным!
+advertisement-hotfood-2 = Если такая еда ждет вас дома, неудивительно, что вы прячетесь здесь.
+advertisement-hotfood-3 = Космические продукты питания, как всегда, с гарниром из поноса!
+advertisement-hotfood-4 = Месть - это блюдо, которое лучше подавать теплым.
 
-advertisement-fitness-1 = SweatMAX, get robust!
-advertisement-fitness-2 = Pain is just weakness leaving the body!
-advertisement-fitness-3 = Run! Your fat is catching up to you!
-advertisement-fitness-4 = Never forget leg day!
-advertisement-fitness-5 = Push out!
-advertisement-fitness-6 = This is the only break you get today.
-advertisement-fitness-7 = Don't cry, sweat!
-advertisement-fitness-8 = Healthy is an outfit that looks good on everybody.
-advertisement-fitness-9 = Want to hide from the Solarian authorities? Don't worry, they don't know what the inside of a gym looks like.
+advertisement-fitness-1 = SweatMAX, стань робастом!
+advertisement-fitness-2 = Боль - это просто слабость, покидающая тело!
+advertisement-fitness-3 = Бегите! Твой жир догоняет тебя!
+advertisement-fitness-4 = Никогда не забывайте про день ног!
+advertisement-fitness-5 = Тяните!
+advertisement-fitness-6 = Это ваш единственный перерыв, за сегодня.
+advertisement-fitness-7 = Не плачь, а потей!
+advertisement-fitness-8 = Здоровый наряд - это наряд, который идет всем.
+advertisement-fitness-9 = Хотите скрыться от космическихы властей? Не волнуйтесь, они не знают, как выглядит внутренняя часть спортзала.
