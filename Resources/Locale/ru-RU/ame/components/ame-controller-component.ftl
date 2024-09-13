@@ -1,22 +1,22 @@
-ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
-ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
-ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
+ame-controller-component-fuel-slot-fail-whitelist = Это нельзя поместить в контроллер...
+ame-controller-component-fuel-slot-fail-locked = Отключите ДАМ перед манипуляциями с топливом.
+ame-controller-component-fuel-slot-success-insert = Вы вставляете топливный бак в слот.
 
 ## UI
 
-ame-window-title = Antimatter Control Unit
-ame-window-engine-status-label = Engine Status:
-ame-window-engine-injection-status-not-injecting-label = Not Injecting
-ame-window-engine-injection-status-injecting-label = Injecting...
-ame-window-toggle-injection-button = Toggle Injection
-ame-window-fuel-status-label = Fuel Status:
-ame-window-fuel-not-inserted-text = No fuel inserted
-ame-window-injection-amount-label = Injection amount:
-ame-window-refresh-parts-button = Refresh Parts
-ame-window-core-count-label = Core count:
-ame-window-power-currentsupply-label = Current power supply:
-ame-window-power-targetsupply-label = Targeted power supply:
-ame-window-toggle-injection-button = Toggle Injection
-ame-window-eject-button = Eject
-ame-window-increase-fuel-button = Increase
-ame-window-decrease-fuel-button = Decrease
+ame-window-title = Контроллер антиматерии
+ame-window-engine-status-label = Статус:
+ame-window-engine-injection-status-not-injecting-label = Не впрыскивает
+ame-window-engine-injection-status-injecting-label = Впрыскивание...
+ame-window-toggle-injection-button = Переключить впрыск
+ame-window-fuel-status-label = Статус топлива:
+ame-window-fuel-not-inserted-text = Топливо отсутствует
+ame-window-injection-amount-label = Количество впрыска:
+ame-window-refresh-parts-button = Обновить детали
+ame-window-core-count-label = Количество ядер:
+ame-window-power-currentsupply-label = Текущее электроснабжение:
+ame-window-power-targetsupply-label = Целевое электроснабжение:
+ame-window-toggle-injection-button = Переключить впрыск
+ame-window-eject-button = Извлечь
+ame-window-increase-fuel-button = Увеличить
+ame-window-decrease-fuel-button = Уменьшить
