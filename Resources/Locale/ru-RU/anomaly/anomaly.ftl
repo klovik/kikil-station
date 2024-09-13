@@ -50,52 +50,53 @@ anomaly-gorilla-charge-limit =
         [few] заряда
        *[other] зарядов
     }[/color].
-anomaly-gorilla-charge-infinite = It has [color=gold]infinite charges[/color]. [italic]For now...[/italic]
+anomaly-gorilla-charge-infinite = Осталось[color=gold]бесконечное количество зарядов[/color]. [italic]Пока что...[/italic]
 
-anomaly-sync-connected = Anomaly successfully attached
-anomaly-sync-disconnected = The connection to the anomaly has been lost!
-anomaly-sync-no-anomaly = No anomaly in range.
-anomaly-sync-examine-connected = It is [color=darkgreen]attached[/color] to an anomaly.
-anomaly-sync-examine-not-connected = It is [color=darkred]not attached[/color] to an anomaly.
-anomaly-sync-connect-verb-text = Attach anomaly
-anomaly-sync-connect-verb-message = Attach a nearby anomaly to {THE($machine)}.
+anomaly-sync-connected = Аномалия успешно привязана!
+anomaly-sync-disconnected = Соединение с аномалией потеряно!
+anomaly-sync-no-anomaly = Нет аномалии рядом.
+anomaly-sync-examine-connected = Он [color=darkgreen]связан[/color] с аномалией.
+anomaly-sync-examine-not-connected = Он [color=darkred]не связан[/color] с аномалией.
+anomaly-sync-connect-verb-text = Присоединить аномалию
+anomaly-sync-connect-verb-message = Присоединить ближайшую аномалию к {$machine}.
 
-anomaly-generator-ui-title = Anomaly Generator
-anomaly-generator-fuel-display = Fuel:
-anomaly-generator-cooldown = Cooldown: [color=gray]{$time}[/color]
-anomaly-generator-no-cooldown = Cooldown: [color=gray]Complete[/color]
-anomaly-generator-yes-fire = Status: [color=forestgreen]Ready[/color]
-anomaly-generator-no-fire = Status: [color=crimson]Not ready[/color]
-anomaly-generator-generate = Generate Anomaly
-anomaly-generator-charges = {$charges ->
-    [one] {$charges} charge
-    *[other] {$charges} charges
-}
-anomaly-generator-announcement = An anomaly has been generated!
-
+anomaly-generator-ui-title = Генератор аномалий
+anomaly-generator-fuel-display = Топливо:
+anomaly-generator-cooldown = Перезарядка: [color=gray]{$time}[/color]
+anomaly-generator-no-cooldown = Перезарядка: [color=gray]Завершена[/color]
+anomaly-generator-yes-fire = Статус: [color=forestgreen]Готов[/color]
+anomaly-generator-no-fire = Статус: [color=crimson]Не готов[/color]
+anomaly-generator-generate = Создать аномалию
+anomaly-generator-charges =
+    { $charges ->
+        [one] { $charges } заряд
+        [few] { $charges } заряда
+       *[other] { $charges } зарядов
+    }
+maly-generator-announcement = Аномалия была создана!
 anomaly-command-pulse = Pulses a target anomaly
 anomaly-command-supercritical = Makes a target anomaly go supercritical
 
 # Flavor text on the footer
-anomaly-generator-flavor-left = Anomaly may spawn inside the operator.
+anomaly-generator-flavor-left = Аномалия может появиться внутри оператора.
 anomaly-generator-flavor-right = v1.1
 
-anomaly-behavior-unknown = [color=red]ОШИБКА. Cannot be read.[/color]
+anomaly-behavior-unknown = [color=red]ОШИБКА. ЧТЕНИЕ НЕВОЗМОЖНО.[/color]
 
-anomaly-behavior-title = behavior deviation analysis:
-anomaly-behavior-point =[color=gold]Anomaly produces {$mod}% of the points[/color] 
+anomaly-behavior-title = Анализ отклонений поведения:
+anomaly-behavior-point = [color=gold]Аномалия генерирует { $mod }% очков[/color]
 
-anomaly-behavior-safe = [color=forestgreen]The anomaly is extremely stable. Extremely rare pulsations.[/color]
-anomaly-behavior-slow = [color=forestgreen]The frequency of pulsations is much less frequent.[/color]
-anomaly-behavior-light = [color=forestgreen]Pulsation power is significantly reduced.[/color]
-anomaly-behavior-balanced = No behavior deviations detected.
-anomaly-behavior-delayed-force = The frequency of pulsations is greatly reduced, but their power is increased.
-anomaly-behavior-rapid = The frequency of the pulsation is much higher, but its strength is attenuated.
-anomaly-behavior-reflect = A protective coating was detected.
-anomaly-behavior-nonsensivity = A weak reaction to particles was detected.
-anomaly-behavior-sensivity = Amplified reaction to particles was detected.
-anomaly-behavior-secret = Interference detected. Some data cannot be read
-anomaly-behavior-inconstancy = [color=crimson]Impermanence has been detected. Particle types can change over time.[/color]
-anomaly-behavior-fast = [color=crimson]The pulsation frequency is strongly increased.[/color]
-anomaly-behavior-strenght = [color=crimson]The pulsation power is significantly increased.[/color]
-anomaly-behavior-moving = [color=crimson]Coordinate instability was detected.[/color]
+anomaly-behavior-safe = [color=forestgreen]Аномалия чрезвычайно стабильна. Крайне редкие импульсы.[/color]
+anomaly-behavior-slow = [color=forestgreen]Частота пульсаций значительно снижена.[/color]
+anomaly-behavior-light = [color=forestgreen]Сила импульсов значительно снижена.[/color]
+anomaly-behavior-balanced = Отклонения не обнаружены.
+anomaly-behavior-delayed-force = Частота пульсаций значительно снижена, но их сила повышена.
+anomaly-behavior-rapid = Частота пульсаций значительно повышена, но их сила снижена.
+anomaly-behavior-reflect = Обнаружено защитное покрытие.
+anomaly-behavior-nonsensivity = Обнаружена слабая реакция на частицы.
+anomaly-behavior-sensivity = Обнаружена сильная реакция на частицы.
+anomaly-behavior-secret = Обнаружены помехи. Часть данных не может быть считана.
+anomaly-behavior-inconstancy = [color=crimson]Обнаружена нестабильность частиц. Типы частиц могут меняться со временем.[/color]
+anomaly-behavior-fast = [color=crimson]Частота импульсов существуенно повышена.[/color]
+anomaly-behavior-strenght = [color=crimson]Мощность импульсов существенно повышена.[/color]
+anomaly-behavior-moving = [color=crimson]Обнаружена координатная нестабильность.[/color]
