@@ -1,12 +1,12 @@
-﻿loadcharacter-command-description = Applies your currently selected character to an entity
-loadcharacter-command-help = Usage: loadcharacter | loadcharacter <entityUid> | loadcharacter <entityUid> <characterName>
+﻿loadcharacter-command-description = Применяет выбранного персонажа для выбранного энтити
+loadcharacter-command-help = Использование: loadcharacter | loadcharacter <Uid энтити> | loadcharacter <Uid энтити> <имя_персонажа>
 loadcharacter-command-mismatch = Species mismatch detected between character and selected entity, this may have unexpected results.
-loadcharacter-command-complete = Character loaded.
-loadcharacter-command-fetching = Fetching character data for {$name}...
-loadcharacter-command-fetching-failed = Failed to fetch character data!
-loadcharacter-command-failed-fetching = Profile fetching failed???
-loadcharacter-command-hint-select = Select character
+loadcharacter-command-complete = Персонаж загружен..
+loadcharacter-command-fetching = Получаю информацию о персонаже {$name}...
+loadcharacter-command-fetching-failed = Не удалось получить информацию о персонаже!
+loadcharacter-command-failed-fetching = Получение профиля не удалось???
+loadcharacter-command-hint-select = Выбрать персонажа
 
-spawncharacter-command-description = Spawns your currently selected/specified character
-spawncharacter-command-help = Usage: spawncharacter | spawncharacter <characterName>
-spawncharacter-command-complete = Character spawned.
+spawncharacter-command-description = Спавнит выбранного персонажа
+spawncharacter-command-help = Использование: spawncharacter | spawncharacter <имя_персонажа>
+spawncharacter-command-complete = Персонаж заспавнен.

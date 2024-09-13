@@ -1,5 +1,5 @@
-marking-VoxFacialHairColonel = Vox Colonel
-marking-VoxFacialHairFu = Quill Fu
-marking-VoxFacialHairNeck = Neck Quills
-marking-VoxFacialHairBeard = Quill Beard
-marking-VoxFacialHairRuffBeard = Ruff Beard
+marking-VoxFacialHairColonel = Полковник Вокс
+marking-VoxFacialHairFu = Квилл Фу
+marking-VoxFacialHairNeck = Шейные перья
+marking-VoxFacialHairBeard = Борода с пером
+marking-VoxFacialHairRuffBeard = Оборванная борода

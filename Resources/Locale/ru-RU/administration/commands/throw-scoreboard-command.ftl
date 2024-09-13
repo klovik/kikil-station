@@ -1,2 +1,2 @@
-throw-scoreboard-command-description = Show round-end scoreboard for all players, but not finish the round
-throw-scoreboard-command-help-text = Usage: throwscoreboard
+throw-scoreboard-command-description = Показывает итоги раунда для всех игроков, но не завершает раунд.
+throw-scoreboard-command-help-text = Использование: throwscoreboard

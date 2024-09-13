@@ -1,82 +1,82 @@
 ﻿# UI
-admin-notes-title = Notes for {$player}
-admin-notes-new-note = New note
-admin-notes-show-more = Show more
-admin-notes-for = Note for: {$player}
+admin-notes-title = Варны для {$player}
+admin-notes-new-note = Новый варн
+admin-notes-show-more = Ещё
+admin-notes-for = Варн для: {$player}
 admin-notes-id = Id: {$id}
-admin-notes-type = Type: {$type}
-admin-notes-severity = Severity: {$severity}
-admin-notes-secret = Secret
-admin-notes-notsecret = Not secret
-admin-notes-expires = Expires on: {$expires}
-admin-notes-expires-never = Does not expire
-admin-notes-edited-never = Never
-admin-notes-round-id = Round Id: {$id}
-admin-notes-round-id-unknown = Round Id: Unknown
-admin-notes-created-by = Created by: {$author}
-admin-notes-created-at = Created At: {$date}
-admin-notes-last-edited-by = Last edited by: {$author}
-admin-notes-last-edited-at = Last edited at: {$date}
-admin-notes-edit = Edit
-admin-notes-delete = Delete
-admin-notes-hide = Hide
-admin-notes-delete-confirm = Confirm delete
-admin-notes-edited = Last edit by {$author} on {$date}
-admin-notes-unbanned = Unbanned by {$admin} on {$date}
-admin-notes-message-desc = [color=white]You have received { $count ->
-    [1] an administrative message
-    *[other] administrative messages
-} since the last time you played on this server.[/color]
-admin-notes-message-admin = From [bold]{ $admin }[/bold], written on { TOSTRING($date, "f") }:
-admin-notes-message-wait = The accept button will be enabled after {$time} seconds.
-admin-notes-message-accept = Dismiss permanently
-admin-notes-message-dismiss = Dismiss for now
-admin-notes-message-seen = Seen
-admin-notes-banned-from = Banned from
-admin-notes-the-server = the server
-admin-notes-permanently = permanently
-admin-notes-for = for {$player}
-admin-notes-days = {$days} days
-admin-notes-hours = {$hours} hours
-admin-notes-minutes = {$minutes} minutes
+admin-notes-type = Тип: {$type}
+admin-notes-severity = Тяжесть: {$severity}
+admin-notes-secret = Секрет
+admin-notes-notsecret = Не секрет
+admin-notes-expires = Истекает: {$expires}
+admin-notes-expires-never = Не истекает
+admin-notes-edited-never = Никогда
+admin-notes-round-id = ID Раунда: {$id}
+admin-notes-round-id-unknown = ID Раунда: Unknown
+admin-notes-created-by = Выдан: {$author}
+admin-notes-created-at = Выдан: {$date}
+admin-notes-last-edited-by = Последнее изменение от: {$author}
+admin-notes-last-edited-at = Последнее изменение: {$date}
+admin-notes-edit = Редактировать
+admin-notes-delete = Удалить
+admin-notes-hide = Спрятать
+admin-notes-delete-confirm = Подвердить
+admin-notes-edited = Последнее изменение от {$author} {$date}
+admin-notes-unbanned = Разбанен админом {$admin} {$date}
+admin-notes-message-desc = [color=white]Вам пришло { $count ->
+    [1] сообщение администрации
+    *[other] сообщений администрации
+} с последнего входа на сервер.[/color]
+admin-notes-message-admin = От [bold]{ $admin }[/bold], отправленного { TOSTRING($date, "f") }:
+admin-notes-message-wait = Кнопка принять будет доступна через {$time} секунд.
+admin-notes-message-accept = Отклонить навсегда
+admin-notes-message-dismiss = Отклонить сейчас
+admin-notes-message-seen = Просмотрено
+admin-notes-banned-from = Забанен
+admin-notes-the-server = сервер
+admin-notes-permanently = перманентно
+admin-notes-for = на {$player}
+admin-notes-days = {$days} день
+admin-notes-hours = {$hours} час
+admin-notes-minutes = {$minutes} минута
 
 # Note editor UI
-admin-note-editor-title-new = Creating a new note for {$player}
-admin-note-editor-title-existing = Editing note {$id} on {$player} by {$author}
-admin-note-editor-pop-out = Pop out
-admin-note-editor-secret = Secret?
-admin-note-editor-secret-tooltip = Checking this will make the note not be visible by the player
-admin-note-editor-type-note = Note
-admin-note-editor-type-message = Message
-admin-note-editor-type-watchlist = Watchlist
-admin-note-editor-type-server-ban = Server Ban
-admin-note-editor-type-role-ban = Role Ban
-admin-note-editor-severity-select = Select
-admin-note-editor-severity-none = None
-admin-note-editor-severity-low = Low
-admin-note-editor-severity-medium = Medium
-admin-note-editor-severity-high = High
-admin-note-editor-expiry-checkbox = Permanent?
-admin-note-editor-expiry-checkbox-tooltip = Check this to make it expire
-admin-note-editor-expiry-label = Expires on:
-admin-note-editor-expiry-label-params = Expires on: {$date} (in {$expiresIn})
-admin-note-editor-expiry-label-expired = Expired
-admin-note-editor-expiry-placeholder = Enter expiration date (yyyy-MM-dd HH:mm:ss)
-admin-note-editor-submit = Submit
-admin-note-editor-submit-confirm = Are you sure?
+admin-note-editor-title-new = Выдать варн игроку {$player}
+admin-note-editor-title-existing = Редактировать варн {$id} для {$player} от {$author}
+admin-note-editor-pop-out = Развернуть
+admin-note-editor-secret = Секрет?
+admin-note-editor-secret-tooltip = При включении, варн не будет виден для игрока
+admin-note-editor-type-note = Варн
+admin-note-editor-type-message = Сообщение
+admin-note-editor-type-watchlist = Наблюдение
+admin-note-editor-type-server-ban = Баны
+admin-note-editor-type-role-ban = Роль Баны
+admin-note-editor-severity-select = Выбрать
+admin-note-editor-severity-none = Ничего
+admin-note-editor-severity-low = Низко
+admin-note-editor-severity-medium = Средне
+admin-note-editor-severity-high = Высоко
+admin-note-editor-expiry-checkbox = Перманентно?
+admin-note-editor-expiry-checkbox-tooltip = Нажмите для истечения
+admin-note-editor-expiry-label = Истекает:
+admin-note-editor-expiry-label-params = Истекает: {$date} (in {$expiresIn})
+admin-note-editor-expiry-label-expired = Истекло
+admin-note-editor-expiry-placeholder = Введите дату истечения (гггг-ММ-дд ЧЧ:мм:сс)
+admin-note-editor-submit = Подтвердить
+admin-note-editor-submit-confirm = Уверен?
 
 # Verb
-admin-notes-verb-text = Open Admin Notes
+admin-notes-verb-text = Открыть Варны
 
 # Watchlist and message login
-admin-notes-watchlist = Watchlist for {$player}: {$message}
-admin-notes-new-message = You've received an admin message from {$admin}: {$message}
+admin-notes-watchlist = Наблюдение за {$player}: {$message}
+admin-notes-new-message = Сообщение от администрации {$admin}: {$message}
 admin-notes-fallback-admin-name = [System]
 
 # Admin remarks
-admin-remarks-command-description = Opens the admin remarks page
-admin-remarks-command-error = Admin remarks have been disabled
-admin-remarks-title = Admin remarks
+admin-remarks-command-description = Открыть админ ремарки
+admin-remarks-command-error = Админ ремарки отключены
+admin-remarks-title = Админ ремарки
 
 # Misc
 system-user = [System]

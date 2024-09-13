@@ -1,5 +1,5 @@
-rejuvenate-command-description = Fully heals a mob.
-rejuvenate-command-help-text = Usage: rejuvenate <mobUid_1> <mobUid_2> ... <mobUid_n>
-                               Attempts to heal the user's mob if no arguments are provided.
-rejuvenate-command-self-heal-message = Healing the user's mob since no arguments were provided.
-rejuvenate-command-no-entity-attached-message = There's no entity attached to the user.
+rejuvenate-command-description = Полностью излечает моба.
+rejuvenate-command-help-text = Использование: rejuvenate <Uid_моба_1> <Uid_моба_2> ... <Uid_моба_n>
+                               Пытается вылечить автора команды, если моб не указан.
+rejuvenate-command-self-heal-message = Моб автора команды был вылечен, тк моб не был указан.
+rejuvenate-command-no-entity-attached-message = У игрока нет тела.
