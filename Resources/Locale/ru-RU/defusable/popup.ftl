@@ -1,10 +1,10 @@
-defusable-popup-begun = {CAPITALIZE(THE($name))} beeps to life; its light is on!
-defusable-popup-defuse = {CAPITALIZE(THE($name))} beeps one last time, as the light shuts off forever.
-defusable-popup-boom = {CAPITALIZE(THE($name))} roars as the internal bomb explodes!
-defusable-popup-fried = {CAPITALIZE(THE($name))} sparks, but fails to begin the countdown.
-defusable-popup-cant-anchor = {CAPITALIZE(THE($name))} appears to be bolted to the ground!
+defusable-popup-begun = {CAPITALIZE(THE($name))} подает звуковой сигнал; индикатор горит!
+defusable-popup-defuse = {CAPITALIZE(THE($name))} подает последний звуковой сигнал, и индикатор выключается навсегда.
+defusable-popup-boom = {CAPITALIZE(THE($name))} ревет при взрыве внутренней бомбы!
+defusable-popup-fried = {CAPITALIZE(THE($name))} искрит, но не начинает обратный отсчет.
+defusable-popup-cant-anchor = {CAPITALIZE(THE($name))} кажется, что он прикручен к земле!
 
-defusable-popup-wire-bolt-pulse = The bolts spin in place for a moment.
-defusable-popup-wire-proceed-pulse = {CAPITALIZE(THE($name))} buzzes ominously!
-defusable-popup-wire-proceed-cut = The digital display on {THE($name)} deactivates.
-defusable-popup-wire-chirp = {CAPITALIZE(THE($name))} chirps.
+defusable-popup-wire-bolt-pulse = Болты на мгновение закручиваются.
+defusable-popup-wire-proceed-pulse = {CAPITALIZE(THE($name))} зловеще жужжит!
+defusable-popup-wire-proceed-cut = Цифровой дисплей на {THE($name)} отключается.
+defusable-popup-wire-chirp = {CAPITALIZE(THE($name))} чирикает.
