@@ -1,14 +1,13 @@
 # Command
-cmd-faxui-desc = Open admin window for sending faxes
-cmd-faxui-help = Usage: faxui
-
+cmd-faxui-desc = Открывает админ факс
+cmd-faxui-help = Использование: faxui
 # Window
-admin-fax-title = Admin Fax Manager
-admin-fax-fax = Fax:
-admin-fax-follow = Follow
-admin-fax-title-placeholder = Paper name...
-admin-fax-from-placeholder = Stamped by...
-admin-fax-message-placeholder = Your message here...
-admin-fax-stamp = Stamp icon:
-admin-fax-stamp-color = Stamp color:
-admin-fax-send = Send
+admin-fax-title = Менеджер админ факса
+admin-fax-fax = Факс:
+admin-fax-follow = Следовать
+admin-fax-title-placeholder = Название документа...
+admin-fax-from-placeholder = Печати...
+admin-fax-message-placeholder = Сообщение...
+admin-fax-stamp = Печать:
+admin-fax-stamp-color = Цвет печати:
+admin-fax-send = Отправить
