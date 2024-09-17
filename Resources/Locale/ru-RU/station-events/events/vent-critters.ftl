@@ -1,8 +1,8 @@
-﻿station-event-cockroach-migration-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-slimes-spawn-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-vent-critters-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-spider-spawn-announcement = Attention. A large influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
+﻿station-event-cockroach-migration-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.
+station-event-slimes-spawn-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.
+station-event-vent-critters-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.
+station-event-spider-spawn-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.
 
 # Weak
-station-event-slimes-spawn-weak-announcement = Attention. A moderate influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
-station-event-spider-spawn-weak-announcement = Attention. A moderate influx of unknown life forms have been detected residing within the station's ventilation systems. Please be rid of these creatures before it begins to affect productivity.
+station-event-slimes-spawn-weak-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.
+station-event-spider-spawn-weak-announcement = Внимание. В вентиляционных системах станции обнаружен большой наплыв неизвестных форм жизни. Пожалуйста, избавьтесь от этих существ, пока они не начали влиять на продуктивность.

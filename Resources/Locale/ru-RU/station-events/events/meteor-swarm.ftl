@@ -1,2 +1,2 @@
-﻿station-event-meteor-swarm-announcement = Meteors are on a collision course with the station. Brace for impact.
-station-event-meteor-swarm-complete-announcement = The meteor swarm has passed. Please return to your stations.
+﻿station-event-meteor-swarm-announcement = Метеоры идут на столкновение со станцией. Приготовьтесь к столкновению.
+station-event-meteor-swarm-complete-announcement = Метеоритный рой прошел. Пожалуйста, возвращайтесь на свои станции.

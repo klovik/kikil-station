@@ -1,1 +1,1 @@
-station-event-kudzu-growth-announcement = Attention crew, we have detected a Type 2 Biological Invader on-station, that poses potentially serious threat to crew productivity. We advise you to exterminate it.
+station-event-kudzu-growth-announcement = Внимание экипажа, мы обнаружили на станции биологическую угрозу второго типа, которая представляет потенциально серьезную угрозу для продуктивности экипажа. Мы советуем вам уничтожить его.
