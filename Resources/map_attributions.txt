@@ -46,3 +46,14 @@
 - files: ["core.yml"]
   authors: Ubaser
 
+- files: ["corvax_avrite.yml"]
+  authors: Corvax
+
+- files: ["corvax_delta.yml"]
+  authors: Corvax
+
+- files: ["corvax_pilgrim.yml"]
+  authors: Corvax
+
+- files: ["corvax_silly.yml"]
+  authors: Corvax
