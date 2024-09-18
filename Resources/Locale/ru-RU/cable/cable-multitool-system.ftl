@@ -1,13 +1,13 @@
-cable-multitool-system-internal-error-no-power-node = Your multitool reads, "INTERNAL ERROR: NOT A POWER CABLE".
-cable-multitool-system-internal-error-missing-component = Your multitool reads, "INTERNAL ERROR: CABLE ABNORMAL".
-cable-multitool-system-verb-name = Power
-cable-multitool-system-verb-tooltip = Use a multitool to examine power statistics.
+cable-multitool-system-internal-error-no-power-node = Ваш мультитул выдает сообщение: «ВНУТРЕННЯЯ ОШИБКА: НЕ ПИТАЮЩИЙ КАБЕЛЬ».
+cable-multitool-system-internal-error-missing-component = Ваш мультитул выдает сообщение: «ВНУТРЕННЯЯ ОШИБКА: КАБЕЛЬ НЕИСПРАВЕН».
+cable-multitool-system-verb-name = Питание
+cable-multitool-system-verb-tooltip = Используйте мультитул для изучения статистики питания.
 
-cable-multitool-system-statistics = Your multitool shows a list of statistics:
-                                    Current Supply: { POWERWATTS($supplyc) }
-                                    From Batteries: { POWERWATTS($supplyb) }
-                                    Theoretical Supply: { POWERWATTS($supplym) }
-                                    Ideal Consumption: { POWERWATTS($consumption) }
-                                    Input Storage: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
-                                    Output Storage: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
+cable-multitool-system-statistics = Ваш мультитул отображает статистику:
+                                    Текущее Питание: { POWERWATTS($supplyc) }
+                                    От Батареек: { POWERWATTS($supplyb) }
+                                    Теоретическое Снабжение: { POWERWATTS($supplym) }
+                                    Идеальный Расход: { POWERWATTS($consumption) }
+                                    Входное Хранилище: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
+                                    Выходное Хранилище: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
 
