@@ -1,6 +1,6 @@
-stethoscope-verb = Listen with stethoscope
-stethoscope-dead = You hear nothing.
-stethoscope-normal = You hear normal breathing.
-stethoscope-hyper = You hear hyperventilation.
-stethoscope-irregular = You hear hyperventilation with an irregular pattern.
-stethoscope-fucked = You hear twitchy, labored breathing interspersed with short gasps.
+stethoscope-verb = Прослушать стетоскопом
+stethoscope-dead = Вы ничего не слышите.
+stethoscope-normal = Вы слышите нормальное дыхание.
+stethoscope-hyper = Вы слышите гипервентиляцию.
+stethoscope-irregular = Вы слышите гипервентиляцию с неправильными ритмами.
+stethoscope-fucked = Вы слышите судорожное, затруднённое дыхание, чередующееся с короткими вздохами.

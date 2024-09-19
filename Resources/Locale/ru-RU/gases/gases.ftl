@@ -5,5 +5,5 @@ gases-plasma = Плазма
 gases-tritium = Тритиум
 gases-water-vapor = Водяной пар
 gases-ammonia = Аммиак
-gases-n2o = Nitrous Oxide
+gases-n2o = Оксид азота
 gases-frezon = Фрезон
