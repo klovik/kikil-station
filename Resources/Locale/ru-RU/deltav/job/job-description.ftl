@@ -1,5 +1,5 @@
-job-description-medical-borg = Half-human, Half-machine. Follow your laws, serve the crew, and assist the medical department.
-job-description-chief-justice = Manage the justice department, act as a judge, and ensure everyone recieves fair and just treatment.
-job-description-clerk = Organize trials, notarize documents, review charges, and act as a judge if needed.
-job-description-prosecutor = Take statements from security and prepare cases against those accused of commiting crimes.
-job-description-courier = Deliver mail and other packages from and to logistics. Avoid dogs.
+job-description-medical-borg = Получеловек, полумашина. Следуйте своим законам, служите экипажу и помогайте медицинскому отделу.
+job-description-chief-justice = Управляйте отделом правосудия, выступайте в роли судьи и следите за тем, чтобы все получали честное и справедливое обращение.
+job-description-clerk = Организуйте судебные процессы, заверяйте нотариально документы, изучайте обвинения и при необходимости выступайте в роли судьи.
+job-description-prosecutor = Принимайте заявления от охраны и готовить дела против тех, кто обвиняется в совершении преступлений.
+job-description-courier = Доставляйте почту и другие посылки по логистике. Избегайте собак.

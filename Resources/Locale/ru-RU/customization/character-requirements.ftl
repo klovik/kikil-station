@@ -1,50 +1,50 @@
 # Job
-character-job-requirement = You must {$inverted ->
-    [true] not be
-    *[other] be
-} one of these jobs: {$jobs}
-character-department-requirement = You must {$inverted ->
-    [true] not be
-    *[other] be
-} in one of these departments: {$departments}
+character-job-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} работать на одной из этих профессий: {$jobs}
+character-department-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} работать в одном из этих отделов: {$departments}
 
-character-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] department playtime
-character-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] department
-character-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime
-character-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime
-character-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color]
-character-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color]
+character-timer-department-insufficient = Вам нужно на [color=yellow]{TOSTRING($time, "0")}[/color] больше минут в [color={$departmentColor}]{$department}[/color]
+character-timer-department-too-high = Вам нужно на [color=yellow]{TOSTRING($time, "0")}[/color] меньше минут в [color={$departmentColor}]{$department}[/color]
+character-timer-overall-insufficient = Вам нужно на [color=yellow]{TOSTRING($time, "0")}[/color] больше минут общего игрового времени
+character-timer-overall-too-high = Вам нужно на [color=yellow]{TOSTRING($time, "0")}[/color] меньше минут общего игрового времени
+character-timer-role-insufficient = Вам нужно на [color=yellow]{TOSTRING($time, "0")}[/color] больше минут в [color={$departmentColor}]{$job}[/color]
+character-timer-role-too-high = Вам нужно на [color=yellow] {TOSTRING($time, "0")}[/color] меньше минут в [color={$departmentColor}]{$job}[/color]
 
 
 # Profile
-character-age-requirement = You must {$inverted ->
-    [true] not be
-    *[other] be
-} be within [color=yellow]{$min}[/color] and [color=yellow]{$max}[/color] years old
-character-species-requirement = You must {$inverted ->
-    [true] not be
-    *[other] be
-} a {$species}
-character-trait-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these traits: {$traits}
-character-loadout-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these loadouts: {$loadouts}
-character-backpack-type-requirement = You must {$inverted ->
-    [true] not use
-    *[other] use
-} a [color=brown]{$type}[/color] as your bag
-character-clothing-preference-requirement = You must {$inverted ->
-    [true] not wear
-    *[other] wear
-} a [color=white]{$type}[/color]
+character-age-requirement = Ваш возраст {$inverted ->
+    [true] не должен
+    *[other] должен
+} быть в рамках [color=yellow]{$min}[/color] и [color=yellow]{$max}[/color] лет
+character-species-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} быть {$species}
+character-trait-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} иметь эти черты: {$traits}
+character-loadout-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} иметь это снаряжение: {$loadouts}
+character-backpack-type-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} использовать [color=brown]{$type}[/color] в качестве сумки
+character-clothing-preference-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] не должны
+} носить [color=white]{$type}[/color]
 
 
 # Whitelist
-character-whitelist-requirement = You must {$inverted ->
-    [true] not be
-    *[other] be
-} whitelisted
+character-whitelist-requirement = Вы {$inverted ->
+    [true] не должны
+    *[other] должны
+} быть в вайтлисте

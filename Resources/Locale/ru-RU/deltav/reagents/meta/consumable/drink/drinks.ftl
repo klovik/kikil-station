@@ -1,23 +1,23 @@
-reagent-name-kvass = kvass
-reagent-desc-kvass = A cool refreshing drink with a taste of socialism.
+reagent-name-kvass = квас
+reagent-desc-kvass = Прохладный освежающий напиток с привкусом социализма.
 
-reagent-name-gunmetal = gunmetal
-reagent-desc-gunmetal = A controversial drink first mixed by Solus Cream, renowned as the first bartender to serve welding fuel in a cocktail - without losing their liquor license.
+reagent-name-gunmetal = ганметал
+reagent-desc-gunmetal = Спорный напиток, впервые смешанный Солусом Кримом, известным как первый бармен, подавший сварочное топливо в коктейле - без потери лицензии на продажу спиртного.
 
-reagent-name-lemondrop = lemon drop
-reagent-desc-lemondrop = A simple, tangy, and tasty drink consisting of lemon, vodka, and simple syrup. Refreshing!
+reagent-name-lemondrop = лимонная капля
+reagent-desc-lemondrop = Простой, терпкий и вкусный напиток, состоящий из лимона, водки и простого сиропа. Освежающий!
 
-reagent-name-greengrass = green grass
-reagent-desc-greengrass = Green grass, or grüne wiese, is a peculiar green cocktail hailing from the now dissolved GDR. Popular amongst the disillusioned and disingenuous alike.
+reagent-name-greengrass = зелёная трава
+reagent-desc-greengrass = Зеленая трава, или grüne wiese, - это своеобразный зеленый коктейль родом из ныне распавшейся ГДР. Популярный среди разочарованных и неискренних людей.
 
-reagent-name-daiquiri = modern daiquiri
-reagent-desc-daiquiri = A sweet mix of deadrum and lime, a favourite of writers and politicians.
+reagent-name-daiquiri = современное дайкири
+reagent-desc-daiquiri = Сладкая смесь дедрума и лайма, любимая писателями и политиками.
 
-reagent-name-arsonistsbrew = arsonist's brew
-reagent-desc-arsonistsbrew = Take a sip and laugh, while you watch your world burn.
+reagent-name-arsonistsbrew = варево поджигателя
+reagent-desc-arsonistsbrew = Сделайте глоток и посмейтесь, глядя, как горит ваш мир.
 
-reagent-name-healthviolation = health code violation
-reagent-desc-healthviolation = Allegedly it's a cocktail. The warning cone motif seems apt.
+reagent-name-healthviolation = нарушение санитарных норм
+reagent-desc-healthviolation = Утверждается, что это коктейль. Мотив предупреждающего конуса кажется подходящим.
 
-reagent-name-mothamphetamine = mothamphetamine
-reagent-desc-mothamphetamine = A strangely... fuzzy drink. It has a chaotic aura.
+reagent-name-mothamphetamine = молемфетамин
+reagent-desc-mothamphetamine = Странный... неясный напиток. Обладает хаотичной аурой.

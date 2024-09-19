@@ -1,36 +1,36 @@
-station-beacon-epistemics = Epistemics
-station-beacon-mystagogue = Mystagogue
+station-beacon-epistemics = Эпистемика
+station-beacon-mystagogue = Мистагога
 
-station-beacon-logistics = Logistics
-station-beacon-logistics-reception = Logistics
-station-beacon-lo = LO
+station-beacon-logistics = Снабжение
+station-beacon-logistics-reception = Снабжение
+station-beacon-lo = СНАБ
 
-station-beacon-conference-room = Conference Room
+station-beacon-conference-room = Конференц-зал
 
-station-beacon-virology = Virology
-station-beacon-metempsychosis = Metempsychosis
-station-beacon-exam = Exam
-station-beacon-med-outpost = Med Outpost
-station-beacon-psych = Psych
+station-beacon-virology = Вирусология
+station-beacon-metempsychosis = Метемпсихоз
+station-beacon-exam = Экзамен
+station-beacon-med-outpost = Медпункт
+station-beacon-psych = Психология
 
-station-beacon-glimmer-prober = Prober
-station-beacon-forensic-mantis = Mantis
+station-beacon-glimmer-prober = Пробная
+station-beacon-forensic-mantis = Богомольная
 
-station-beacon-mailroom = Mail
+station-beacon-mailroom = Почта
 
-station-beacon-engi-outpost = Engi Outpost
+station-beacon-engi-outpost = Инженерный аванпост
 
-station-beacon-janitor-office = Jani Office
-station-beacon-janitor-closet = Jani Closet
-station-beacon-reporter = Reporter
+station-beacon-janitor-office = Офис Уборщиков
+station-beacon-janitor-closet = Гардероб Уборщиков
+station-beacon-reporter = Репортёр
 
-station-beacon-camera-servers = Cameras
+station-beacon-camera-servers = Камеры
 
-station-beacon-boxing-ring = Boxing
-station-beacon-park = Park
+station-beacon-boxing-ring = Боксёры
+station-beacon-park = Парк
 
-station-beacon-corpsman = Corpsman
+station-beacon-corpsman = Санитар
 
-station-beacon-justice = Justice
-station-beacon-chiefjustice = Chief Justice
-station-beacon-prosecutor = Prosecutor
+station-beacon-justice = Суд
+station-beacon-chiefjustice = Верховный судья
+station-beacon-prosecutor = Прокурор

@@ -1,4 +1,4 @@
 ﻿ui-options-tab-deltav = DeltaV
-ui-options-general-forknotice = Note: These settings are fork-specific and might not apply on other servers.
+ui-options-general-forknotice = Внимание: Эти настройки работают по разному на разных форках, и могут не работать на некоторых серверах.
 
-ui-options-no-filters = Disable species vision filters
+ui-options-no-filters = Отключить фильтры видения видов
