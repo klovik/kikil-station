@@ -23,7 +23,7 @@ warp-point-engineering = Инженерный
 warp-point-singularity = Сингулярность
 warp-point-atmospherics = Атмос
 
-warp-point-hop = ХоП
+warp-point-hop = ГП
 warp-point-kitchen = Кухня
 warp-point-bar = Бар
 warp-point-botany = Гидропоника
