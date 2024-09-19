@@ -1,20 +1,20 @@
 thief-role-greeting-human =
-    You are criminal scum, a kleptomaniac
-    previously arrested and on parole for petty theft.
-    You need to add more to your collection.
-    You were forcibly given a pacifism implant after your last arrest,
-    but that can't stop you from getting your fix by any means necessary.
+    Вы - подонок и клептоман,
+    ранее вы были арестованы и условно-досрочно освобождены за мелкую кражу.
+    Вам нужно пополнить свою коллекцию.
+    После вашего последнего ареста вам насильно вживили пацифистский имплантат,
+    но это не может помешать вам получить свою дозу любыми необходимыми способами.
 
 thief-role-greeting-animal =
-    You are a kleptomaniac animal.
-    Steal things that you like.
+    Ты животное, страдающее клептоманкой.
+    Крадите то, что вам нравится.
 
 thief-role-greeting-equipment =
-    You have a toolbox of thieves'
-    tools and chameleon thieves' gloves.
-    Choose your starting equipment,
-    and do your work stealthily.
+    У вас есть набор воровских инструментов
+    и воровские перчатки-хамелеоны.
+    Выберите стартовое снаряжение
+    и выполняйте свою работу незаметно.
 
-objective-issuer-thief = [color=#746694]Criminal[/color]
+objective-issuer-thief = [color=#746694]Криминал[/color]
 
-thief-round-end-agent-name = thief
+thief-round-end-agent-name = вор

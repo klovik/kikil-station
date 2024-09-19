@@ -1,5 +1,5 @@
-survival-title = Survival
-survival-description = No internal threats, but how long can the station survive increasingly chaotic and frequent events?
+survival-title = Выживание
+survival-description = Внутренних угроз нет, но как долго станция сможет выдерживать все более хаотичные и частые события?
 
-hellshift-title = Hellshift
-hellshift-description = The station rolled a "one" in a luck check. Can the crew make it to the end?
+hellshift-title = Хеллшифт
+hellshift-description = Станция получила "единицу" в результате проверки удачи. Сможет ли экипаж дойти до конца?

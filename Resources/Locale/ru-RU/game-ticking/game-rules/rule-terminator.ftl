@@ -1,18 +1,18 @@
 terminator-round-end-agent-name = nt-800
 
-objective-issuer-susnet = [color=#d64119]Susnet[/color]
+objective-issuer-susnet = [color=#d64119]Суснет[/color]
 
 terminator-role-greeting =
-    You are the exterminator, a relentless assassin sent into the past to secure our future.
-    We need you to eliminate {$target}, {$job}.
-    Use any means at your disposal to complete the mission.
-    Glory to Cybersun.
+    Ты - истребитель, безжалостный убийца, посланный в прошлое, чтобы обеспечить наше будущее.
+    Нам нужно, чтобы вы устранили {$target}, {$job}.
+    Используйте любые средства, имеющиеся в вашем распоряжении, чтобы завершить миссию.
+    Слава Киберсолнцу.
 
 # DeltaV - paradox anomaly
 terminator-role-briefing =
-    You are a bluespace anomaly that looks and sound identical to someone from this reality.
-    Kill them and assume their identity, or talk it out and become friends.
-    Your objectives support either playstyle (and you obviously can't do both).
+    Вы - блюспейс аномалия, которая выглядит и звучит идентично кому-то из этой реальности.
+    Убейте их и примите их облик, или поговорите об этом и станьте друзьями.
+    Ваши цели поддерживают любой из стилей игры (и вы, очевидно, не можете использовать оба).
 
-terminator-endoskeleton-gib-popup = All the battered flesh falls apart, revealing a titanium endoskeleton!
-terminator-endoskeleton-burn-popup = The seared flesh is burned to a crisp, revealing a titanium endoskeleton!
+terminator-endoskeleton-gib-popup = Вся изуродованная плоть разваливается на части, обнажая титановый эндоскелет!
+terminator-endoskeleton-burn-popup = Обожженная плоть поджаривается до хрустящей корочки, обнажая титановый эндоскелет!

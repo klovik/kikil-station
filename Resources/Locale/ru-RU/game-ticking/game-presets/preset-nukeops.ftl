@@ -1,34 +1,34 @@
-﻿nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+﻿nukeops-title = Ядерные Оперативники
+nukeops-description =  Ядерные Оперативники скоро прибудут на станцию. Постарайтесь остановить их от взрыва станции ядерной боеголовкой!
 
 nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go ! Death to Nanotrasen!
+    Вы - ядерный оперативник. Ваша задача - взорвать станцию {$station}, и убедиться, что от неё ничего не останется. Ваше начальство, Синдикат, предоставят вам всё необходимое снаряжение для выполнения миссии.
+    Операция {$name} начинается! Смерть Nanotrasen!
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
+nukeops-opsmajor = [color=crimson]Мажорная победа Синдиката![/color]
+nukeops-opsminor = [color=crimson]Минорная победа Синдиката![/color]
 nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-crewminor = [color=green]Минорная победа экипажа![/color]
+nukeops-crewmajor = [color=green]Мажорная победа экипажа![/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
-nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast.
-nukeops-cond-nukeexplodedonincorrectlocation = The nuclear bomb was detonated off-station.
-nukeops-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-nukeops-cond-nukeactiveatcentcom = The nuclear bomb was delivered to Central Command!
-nukeops-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-nukeops-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-nukeops-cond-nukiesabandoned = The nuclear operatives were abandoned.
-nukeops-cond-allnukiesdead = All nuclear operatives have died.
-nukeops-cond-somenukiesalive = Some nuclear operatives died.
-nukeops-cond-allnukiesalive = No nuclear operatives died.
+nukeops-cond-nukeexplodedoncorrectstation = Ядерные оперативники успешно уничтожили станцию.
+nukeops-cond-nukeexplodedonnukieoutpost = Шаттл ядерных оперативников был уничтожен взрывной волной.
+nukeops-cond-nukeexplodedonincorrectlocation = Ядерная боеголовка детонировала вне станции.
+nukeops-cond-nukeactiveinstation = Ядерная боеголовка была оставленна заряженной на станции.
+nukeops-cond-nukeactiveatcentcom = Ядерная боеголовка была доставлена на центком!
+nukeops-cond-nukediskoncentcom = Экипаж сбежал с диском ядерной авторизации.
+nukeops-cond-nukedisknotoncentcom = Экипаж где-то потерял диск ядерной авторизации.
+nukeops-cond-nukiesabandoned = Ядерные оперативники были заброшены.
+nukeops-cond-allnukiesdead = Все ядерные оперативники погибли.
+nukeops-cond-somenukiesalive = Некоторые ядерные оперативники погибли.
+nukeops-cond-allnukiesalive = Все ядерные оперативники выжили.
 
-nukeops-list-start = The operatives were:
+nukeops-list-start = Задачи:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Nukeops.
-nukeops-no-one-ready = No players readied up! Can't start Nukeops.
+nukeops-not-enough-ready-players = Недостаточно игроков готовы для начала раунда! {$readyPlayersCount} игроков готовы из {$minimumPlayers} необходимых. Невозможно начать игру.
+nukeops-no-one-ready = Нет готовых игроков. Невозможно запустить раунд.
 
-nukeops-role-commander = Commander
-nukeops-role-agent = Agent
-nukeops-role-operator = Operator
+nukeops-role-commander = Командир
+nukeops-role-agent = Агент
+nukeops-role-operator = Оперативник
