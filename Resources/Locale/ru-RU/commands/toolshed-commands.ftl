@@ -1,71 +1,71 @@
 ﻿command-description-visualize =
-    Takes the input list of entities and puts them into a UI window for easy browsing.
-command-description-runverbas =
-    Runs a verb over the input entities with the given user.
+    Получает входной список энтити и помещает их в окно пользовательского интерфейса для удобства просмотра.
+command-description-runverbas 
+    Выполнить глагол над входными энтити с указанным пользователем.
 command-description-acmd-perms =
-    Returns the admin permissions of the given command, if any.
+    Возвращает права администратора для данной команды, если таковые имеются.
 command-description-acmd-caninvoke =
-    Check if the given player can invoke the given command.
+    Проверяет, может ли данный игрок вызвать заданную команду.
 command-description-jobs-jobs =
-    Returns all jobs on a station.
+    Возвращает все профессии на станции.
 command-description-jobs-job =
-    Returns a given job on a station.
+    Возвращает данную профессию на станции.
 command-description-jobs-isinfinite =
-    Returns true if the input job is infinite, otherwise false.
+    Возвращает true если данная профессия с бесконечными слотами, иначе false.
 command-description-jobs-adjust =
-    Adjusts the number of slots for the given job.
+    Меняет кол-во слотов для определённой профессии.
 command-description-jobs-set =
-    Sets the number of slots for the given job.
+    Устанавливает кол-во слотов для определённой профессии.
 command-description-jobs-amount =
-    Returns the number of slots for the given job.
+    Возвращает количество слотов для выбранной профессии.
 command-description-laws-list =
-    Returns a list of all law bound entities.
+    Возвращает список всех связанных законом субъектов.
 command-description-laws-get =
-    Returns all of the laws for a given entity.
+    Возвращает законы выбранного энтити.
 command-description-stations-list =
-    Returns a list of all stations.
+    Возвращает список всех станций.
 command-description-stations-get =
-    Gets the active station, if and only if there is only one.
+    Получает активную станцию, если и только если она существует только один.
 command-description-stations-getowningstation =
-    Gets the station that a given entity is "owned by" (within)
+    Получает станцию, которая «владеет» (в пределах) данным энтити.
 command-description-stations-grids =
-    Returns all grids associated with the input station.
+    Возвращает все сетки относящиеся к данной станции.
 command-description-stations-config =
-    Returns the config associated with the input station, if any.
+    Возвращает конфиг относящийся к данной станции, если он существует.
 command-description-stations-addgrid =
-    Adds a grid to the given station.
+    Добавляет сетку к данной станции.
 command-description-stations-rmgrid =
-    Removes a grid from the given station.
+    Удаляет сетку с данной станции.
 command-description-stations-rename =
-    Renames the given station.
+    Переименовывает данную станцию.
 command-description-stations-largestgrid =
-    Returns the largest grid the given station has, if any.
+    Возвращает самую большую сетку, которую имеет данная станция, если она есть.
 command-description-stations-rerollBounties =
-    Clears all the current bounties for the station and gets a new selection.
+    Очищает все текущие заказы для данной станции и выдаёт новые.
 command-description-stationevent-lsprob =
-    Lists the probability of different station events occuring out of the entire pool.
+    Выводит список вероятностей всех ивентов на станции из всего пула.
 command-description-stationevent-lsprobtime =
-    Lists the probability of different station events occuring based on the specified length of a round.
+    Выводит список вероятностей разных инветов на станции, происходящих из-за длительности раунда.
 command-description-stationevent-prob =
-    Returns the probability of a single station event occuring out of the entire pool.
+    Возвращает вероятность одного ивента станции из всего пула.
 command-description-admins-active =
-    Returns a list of active admins.
+    Возвращает список активных админов.
 command-description-admins-all =
-    Returns a list of ALL admins, including deadmined ones.
+    Возвращает список ВСЕХ админов, включая деадминов.
 command-description-marked =
-    Returns the value of $marked as a List<EntityUid>.
+    Возвращает значение переменной $marked в виде List<EntityUid>.
 command-description-rejuvenate =
-    Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.
+    Омолаживает выбранных энтити, восстанавливая им всё здоровье, очищая эффекты, и тд.
 command-description-tag-list =
-    Lists tags on the given entities.
+    Выводит список тегов на выбранном энтити.
 command-description-tag-add =
-    Adds a tag to the given entities.
+    Добавляет тег выбранным энтити.
 command-description-tag-rm =
-    Removes a tag from the given entities.
+    Удаляет тег с выбранных энтити
 command-description-tag-addmany =
-    Adds a list of tags to the given entities.
+    Добавляет несколько тегов выбранным энтити.
 command-description-tag-rmmany =
-    Removes a list of tags from the given entities.
+    Удаляет несколько тегов выбранным энтити.
 command-description-polymorph =
     Polymorphs the input entity with the given prototype.
 command-description-unpolymorph =
@@ -77,6 +77,6 @@ command-description-solution-adjreagent =
 command-description-mind-get =
     Grabs the mind from the entity, if any.
 command-description-mind-control =
-    Assumes control of an entity with the given player.
+    Даёт контроль над энтити выбранному игроку.
 command-description-addaccesslog =
-    Adds an access log to this entity. Do note that this bypasses the log's default limit and pause check.
+    Добавляет an access log to this entity. Do note that this bypasses the log's default limit and pause check.

@@ -1,3 +1,3 @@
-cmd-zoom-desc = Sets the zoom of the main eye.
-cmd-zoom-help = zoom ( <scale> | <X-scale> <Y-scale> )
-cmd-zoom-error = scale has to be greater than 0
+cmd-zoom-desc = Устанавливает зум для основной камеры.
+cmd-zoom-help = zoom ( <размер> | <X-размер> <Y-размер> )
+cmd-zoom-error = размер должен быть больше 0

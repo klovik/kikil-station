@@ -1,18 +1,18 @@
-﻿comp-space-heater-ui-thermostat = Thermostat:
-comp-space-heater-ui-mode = Mode
-comp-space-heater-ui-status-disabled = Off
-comp-space-heater-ui-status-enabled = On
+﻿comp-space-heater-ui-thermostat = Термостат:
+comp-space-heater-ui-mode = Режим
+comp-space-heater-ui-status-disabled = Выкл
+comp-space-heater-ui-status-enabled = Вкл
 comp-space-heater-ui-increase-temperature-range = +
 comp-space-heater-ui-decrease-temperature-range = -
 
-comp-space-heater-mode-Auto = Auto
-comp-space-heater-mode-Heat = Heat
-comp-space-heater-mode-Cool = Cool
+comp-space-heater-mode-Auto = Авто
+comp-space-heater-mode-Heat = Нагрев
+comp-space-heater-mode-Cool = Холод
 
-comp-space-heater-ui-power-consumption = Power level:
-comp-space-heater-ui-Low-power-consumption = Low
-comp-space-heater-ui-Medium-power-consumption = Medium
-comp-space-heater-ui-High-power-consumption = High
+comp-space-heater-ui-power-consumption = Потребление:
+comp-space-heater-ui-Low-power-consumption = Низкое
+comp-space-heater-ui-Medium-power-consumption = Среднее
+comp-space-heater-ui-High-power-consumption = Высокое
 
-comp-space-heater-device-name = space heater
-comp-space-heater-unanchored = The {$device} is not anchored.
+comp-space-heater-device-name = Космический нагреватель
+comp-space-heater-unanchored = {$device} не закреплён.
