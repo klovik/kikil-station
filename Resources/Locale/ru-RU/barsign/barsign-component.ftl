@@ -31,11 +31,11 @@ barsign-prototype-name-robusta-cafe = Кафе «Робаста»
 barsign-prototype-description-robusta-cafe = Обладатель звания «Самые смертоносные бои» 5 лет подряд.
 
 ## Emergency Rum Party
-barsign-prototype-name-emergency-rum-party = Экстренная Вечеринка с Ромом
+barsign-prototype-name-emergency-rum-party = Экстренная Ромовая Вечеринка
 barsign-prototype-description-emergency-rum-party = Недавно получил лицензию после длительного закрытия.
 
 ## The Combo Cafe
-barsign-prototype-name-combo-cafe = Кафе «Комбо»
+barsign-prototype-name-combo-cafe = Комбо Кафе
 barsign-prototype-description-combo-cafe = Известны во всем мире своими совершенно некреативными сочетаниями напитков.
 
 ## The Ale Nath
