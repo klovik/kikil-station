@@ -1,26 +1,26 @@
-supermatter-announcer = Automatic Supermatter Engine
+supermatter-announcer = Автоматический двигатель суперматерии
 supermatter-examine-integrity =
-    Its' integrity is [color=yellow]{$integrity}%[/color].
+    Его целостность составляет [color=yellow]{$integrity}%[/color].
 supermatter-announcement-warning =
-    Warning! Crystal hyperstructure integrity faltering! Integrity: {$integrity}%.
+    Внимание! Нарушение целостности гиперструктуры! Целостность: {$integrity}%.
 supermatter-announcement-emergency =
-    DANGER! Crystal hyperstructure integrity reaching critical levels! Integrity: {$integrity}%.
+    ВНИМАНИЕ! Целостность гиперструктуры достигает критических значений! Целостность: {$integrity}%.
 supermatter-announcement-delam-explosion =
-    CRYSTAL DELAMINATION IMMINENT! The crystal has reached critical integrity failure! Emergency causality destabilization field has been engaged.
+    УНИЧТОЖЕНИЕ КРИСТАЛЛА НЕИЗБЕЖНО! Целостность кристалла уничтожена! Включено аварийное поле дестабилизации.
 supermatter-announcement-delam-overmass =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical mass failure! Singularity formation imminent!
+    УНИЧТОЖЕНИЕ КРИСТАЛЛА НЕИЗБЕЖНО! Целостность кристалла достигла критической массы! Образование сингулярности неизбежно
 supermatter-announcement-delam-tesla =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical power surge failure! Energy ball formation imminent!
+    УНИЧТОЖЕНИЕ КРИСТАЛЛА НЕИЗБЕЖНО! Целостность кристалла достигла критического импульса тока! Формирование энергетического шара неизбежно!
 supermatter-announcement-delam-cascade =
-    CRYSTAL DELAMINATION IMMINENT! Harmonic frequency limits exceeded, casualty destabilization field could not be engaged!
+    УНИЧТОЖЕНИЕ КРИСТАЛЛА НЕИЗБЕЖНО! Превышение пределов гармонической частоты, не удалось включить дестабилизирующее поле!
 supermatter-announcement-delam-cancel =
-    Crystalline hyperstructure returning to safe operating parameters. Failsafe has been Disengaged. Integrity: {$integrity}%.
+    Целостность гиперструктуры кристалла вернулась к безопасным значениям. Системы сдерживания возможных последствий выключены. Целостность: {$integrity}%.
 supermatter-seconds-before-delam =
-    Estimated time before delamination: {$seconds} seconds.
+    Расчетное время до уничтожения: {$seconds} секунд.
 supermatter-tamper-begin =
-    You begin carefully cutting a piece off the supermatter crystal...
+    Вы начинаете аккуратно вырезать кусочек из кристалла суперматерии...
 supermatter-tamper-end =
-    You feel the power of a thousand suns laying on your palms. Or is it all the radiation?
+    Вы чувствуете силу тысячи солнц на ваших ладонях Или это всё радиация?
 supermatter-announcement-cc-tamper =
-    Our automatic casualty system has detected that the supermatter crystal structural integrity was compromised by an external force.
-    Engineering department, report to the supermatter engine immediately.
+    Наша автоматическая система аварий обнаружила, что целостность кристалла суперматерии была нарушена внешними воздействиями.
+    Инженерный отдел, немедленно проверьте кристалл суперматерии!
