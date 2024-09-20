@@ -16,7 +16,7 @@ barsign-prototype-description-drunk-carp = Не пейте и не плавай�
 
 ## Officer Beersky
 barsign-prototype-name-officer-beersky = Офицер Пиванский
-barsign-prototype-description-officer-beersky = Мужик съел дон, эти напитки великолепны.
+barsign-prototype-description-officer-beersky = Эти напитки великолепны.
 
 ## The Outer Spess
 barsign-prototype-name-outer-spess = Открытый Ко Смосс
@@ -27,7 +27,7 @@ barsign-prototype-name-coderbus = Кодербас
 barsign-prototype-description-coderbus = Очень противоречивый бар, известный широким выбором постоянно меняющихся напитков.
 
 ## Robusta Cafe
-barsign-prototype-name-robusta-cafe = Кафе «Робаста»
+barsign-prototype-name-robusta-cafe = Робаста Кафе
 barsign-prototype-description-robusta-cafe = Обладатель звания «Самые смертоносные бои» 5 лет подряд.
 
 ## Emergency Rum Party
