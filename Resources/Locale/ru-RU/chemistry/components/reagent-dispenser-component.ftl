@@ -16,4 +16,4 @@ reagent-dispenser-window-eject-button = Извлечь
 reagent-dispenser-window-no-container-loaded-text = Контейнер отсутствует.
 reagent-dispenser-window-reagent-name-not-found-text = Имя реагента не найдено
 reagent-dispenser-window-unknown-reagent-text = Неизвестный реагент
-reagent-dispenser-window-quantity-label-text = {$quantity}u
+reagent-dispenser-window-quantity-label-text = {$quantity} ед.

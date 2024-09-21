@@ -1,26 +1,26 @@
 ## Implanter Attempt Messages
 
-implanter-component-implanting-target = {$user} is trying to implant you with something!
-implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
-implanter-draw-failed-permanent = The {$implant} in {$target} is fused with them and cannot be removed!
-implanter-draw-failed = You tried to remove an implant but found nothing.
-implanter-component-implant-already = {$target} already has the {$implant}!
+implanter-component-implanting-target = {$user} пытается вживить вам что-то!
+implanter-component-implant-failed = {$implant} не может быть вживлён в {$target}!
+implanter-draw-failed-permanent = {$implant} в {$target} слился с ним и не может быть удален!
+implanter-draw-failed = Вы попытались извлечь имплантат, но ничего не нашли.
+implanter-component-implant-already = {$target} уже имеет {$implant}!
 
 ## UI
-implanter-draw-text = Draw
-implanter-inject-text = Inject
+implanter-draw-text = Достать
+implanter-inject-text = Вставить
 
-implanter-empty-text = None
+implanter-empty-text = Нет
 
-implanter-label = Implant: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
+implanter-label = Имплант: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]
 
 ## Implant Popups
 
-scramble-implant-activated-popup = Your appearance shifts and changes!
+scramble-implant-activated-popup = Ваша внешность преобразуется и меняется!
 
 ## Implant Messages
 
-deathrattle-implant-dead-message = {$user} has died {$position}.
-deathrattle-implant-critical-message = {$user} life signs critical, immediate assistance required {$position}.
+deathrattle-implant-dead-message = {$user} умер на {$position}.
+deathrattle-implant-critical-message = Жизненные показатели {$user} критические, требуется немедленная помощь на {$position}.

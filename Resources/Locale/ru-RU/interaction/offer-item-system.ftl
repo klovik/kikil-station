@@ -1,13 +1,13 @@
-offer-item-empty-hand = You don't have anything in your hand to give!
+offer-item-empty-hand = У вас ничего нет в руке.
 
-offer-item-full-hand = Your hand isn't free to receive the item.
+offer-item-full-hand = У вас нет свободных рук, чтобы принять предложение.
 
-offer-item-try-give = You offer {THE($item)} to {$target}
-offer-item-try-give-target = {$user} offers you {THE($item)}
+offer-item-try-give = Вы предлагаете {$item} {$target}
+offer-item-try-give-target = {$user} предлагает вам {THE($item)}
 
-offer-item-give = You handed {THE($item)} to {$target}
-offer-item-give-other = {$user} handed {THE($item)} to {$target}
-offer-item-give-target = {$user} handed you {THE($item)}
+offer-item-give = Вы протягиваете {$item} {$target}
+offer-item-give-other = {$user} протягивает {$item} {$target}
+offer-item-give-target = {$user} протягивает вам {$item}
 
-offer-item-no-give = You stop offering {THE($item)} to {$target}
-offer-item-no-give-target = {$user} is no longer offering {THE($item)} to you
+offer-item-no-give = Вы перестаёте протягивать {$item} {$target}
+offer-item-no-give-target = {$user} больше не протягивает {$item} вам

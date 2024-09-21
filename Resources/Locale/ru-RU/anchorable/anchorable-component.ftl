@@ -1,3 +1,3 @@
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = Закреплён
+anchorable-unanchored = Не закреплён
+anchorable-occupied = Плитка занята!

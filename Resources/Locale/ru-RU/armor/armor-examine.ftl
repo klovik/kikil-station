@@ -1,6 +1,6 @@
 # Armor examines
 armor-examinable-verb-text = Осмотреть
-armor-examinable-verb-message = Осмотреть значения брони.
+armor-examinable-verb-message = Изучить показатели брони.
 armor-examine = Она обеспечивает следующую защиту:
 armor-coefficient-value = - [color=yellow]{$type}[/color] урон понижен на [color=lightblue]{$value}%[/color].
 armor-reduction-value = - [color=yellow]{$type}[/color] урон понижен на [color=lightblue]{$value}[/color].

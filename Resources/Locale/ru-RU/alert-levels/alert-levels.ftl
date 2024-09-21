@@ -1,40 +1,40 @@
-alert-level-announcement = Attention! Station alert level has been set to {$name}! {$announcement}
+alert-level-announcement = Внимание! Уровень угрозы на станции был изменён на {$name}! {$announcement}
 
-alert-level-unknown = Unknown.
-alert-level-unknown-instructions = Unknown.
+alert-level-unknown = Неизвестно.
+alert-level-unknown-instructions = Неизвестно.
 
-alert-level-green = Green
-alert-level-green-announcement = There is no currently known threat to the station, nor the crew. It is safe to return to your workplaces.
-alert-level-green-instructions = Do your job.
+alert-level-green = Зелёный
+alert-level-green-announcement = В настоящее время нет никакой угрозы ни станции, ни экипажу. Вы можете спокойно вернуться на свои рабочие места.
+alert-level-green-instructions = Делайте свою работу.
 
-alert-level-blue = Blue
-alert-level-blue-announcement = There is an ongoing, known, or suspected security threat to the station or its crew, or another significant security emergency. Crewmembers are advised to follow commands issued by any relevant authority.
-alert-level-blue-instructions = Crewmembers are advised to follow commands issued by any relevant authority.
+alert-level-blue = Синий
+alert-level-blue-announcement = Существует постоянная, известная или предполагаемая угроза безопасности станции или ее экипажа, или другая значительная чрезвычайная ситуация в области безопасности. Членам экипажа рекомендуется следовать командам, отданным любым соответствующим органом.
+alert-level-blue-instructions = Членам экипажа рекомендуется следовать командам, отданным любым соответствующим органом.
 
-alert-level-red = Red
-alert-level-red-announcement = There are multiple major emergency situations ongoing, or a major security emergency affecting the station. Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
-alert-level-red-instructions = Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
+alert-level-red = Красный
+alert-level-red-announcement = На станции происходит несколько крупных чрезвычайных ситуаций или серьезная чрезвычайная ситуация, связанная с безопасностью. Члены экипажа должны найти безопасное место, где можно укрыться, и следовать указаниям глав.
+alert-level-red-instructions = Члены экипажа должны найти безопасное место, где можно укрыться, и следовать указаниям глав отделов.
 
-alert-level-violet = Violet
-alert-level-violet-announcement = There is a serious viral outbreak, ongoing major death event, or there is another significant medical emergency. Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
-alert-level-violet-instructions = Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
+alert-level-violet = Фиолетовый
+alert-level-violet-announcement = Серьезная вирусная вспышка, продолжающийся крупный смертельный случай или другая серьезная медицинская чрезвычайная ситуация. Членам экипажа рекомендуется отдалиться от других людей и принять меры безопасности, чтобы предотвратить дальнейшее распространение инфекции.
+alert-level-violet-instructions = Членам экипажа рекомендуется отдалиться от других людей и принять меры безопасности, чтобы предотвратить дальнейшее распространение инфекции.
 
-alert-level-white = White
-alert-level-white-announcement = The station is suffering dangerously high levels of glimmer, there are several active psionic threats, or there is another significant epistemic emergency. Turn off all glimmer probers. Seek psionic insulation. Psychics should report for mindbreaking.
-alert-level-white-instructions = Crewmembers are advised to seek psionic insulation. Psychics should report for mindbreaking or golemization.
+alert-level-white = Белый
+alert-level-white-announcement = На станции опасно высокий уровень мерцания, существует несколько активных псионических угроз или другая значительная эпистемическая чрезвычайная ситуация. Отключите все датчики мерцания. Ищите псионическую изоляцию. Экстрасенсы должны явиться на разгрузку сознания.
+alert-level-white-instructions = Членам экипажа рекомендуется искать псионическую изоляцию. Экстрасенсам следует явиться для разрушения сознания или големизации.
 
-alert-level-yellow = Yellow
-alert-level-yellow-announcement = There is a major issue with the atmospheric system, the station has suffered/is about to suffer significant damage, or there is another significant engineering emergency. Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
-alert-level-yellow-instructions = Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
+alert-level-yellow = Жёлтый
+alert-level-yellow-announcement = Возникла серьезная проблема с атмосферной системой, станция получила/может получить значительные повреждения, или возникла другая серьезная инженерная чрезвычайная ситуация. Членам экипажа рекомендуется держаться подальше от угрозы и при необходимости оставаться на своих рабочих местах.
+alert-level-yellow-instructions = Членам экипажа рекомендуется держаться подальше от угрозы и при необходимости оставаться на своих рабочих местах.
 
-alert-level-gamma = Gamma
-alert-level-gamma-announcement = Central Command has called the Gamma Alert; the Station is on its last legs, almost everyone is dead, or there is another existential crisis affecting the station. Martial Law is now in effect.
-alert-level-gamma-instructions = All civilians are to immediately seek their nearest head for transportation to a secure location.
+alert-level-gamma = Гамма
+alert-level-gamma-announcement = Центральное командование объявило Гамма-тревогу; станция находится на последнем издыхании, почти все мертвы, или на станции назревает другой экзистенциальный кризис. Вступает в силу военное положение.
+alert-level-gamma-instructions = Все гражданские лица должны немедленно обратиться к ближайшему начальнику для транспортировки в безопасное место.
 
-alert-level-delta = Delta
-alert-level-delta-announcement = Station scuttling is imminent, or there is another existential crisis affecting the station. All crew and passengers must be evacuated as applicable. Martial Law is now in effect.
-alert-level-delta-instructions = Crewmembers are advised to listen to heads of staff for more information.
+alert-level-delta = Дельта
+alert-level-delta-announcement = Снос станции неизбежен, или на станции возник другой экзистенциальный кризис. Все члены экипажа и пассажиры должны быть эвакуированы. Военное положение вступает в силу.
+alert-level-delta-instructions = Членам экипажа рекомендуется следовать указаниям глав отделов, чтобы получить дополнительную информацию.
 
-alert-level-epsilon = Epsilon
-alert-level-epsilon-announcement = The Epsilon alert level is now in effect. Consider all contracts terminated.
-alert-level-epsilon-instructions = Crewmembers are advised to make their way to an accessible location for efficient termination.
+alert-level-epsilon = Эпсилон
+alert-level-epsilon-announcement = В настоящее время действует уровень угрозы «Эпсилон». Считайте, что все контракты расторгнуты.
+alert-level-epsilon-instructions = Членам экипажа рекомендуется добраться до доступного места для эффективного уничтожения.

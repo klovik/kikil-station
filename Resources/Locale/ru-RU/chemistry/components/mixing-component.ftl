@@ -9,6 +9,6 @@ mixing-verb-holy = благословение
 
 ## Entity
 
-default-mixing-success = Вы смешиваете {$mixed} при помощи{$mixer}
+default-mixing-success = Вы смешиваете {$mixed} при помощи {$mixer}
 bible-mixing-success = Вы благословляете {$mixed} при помощи {$mixer}
 

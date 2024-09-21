@@ -1,1 +1,1 @@
-base-computer-ui-component-not-powered = {CAPITALIZE(THE($machine))} не работает.
+base-computer-ui-component-not-powered = {CAPITALIZE($machine)} не работает.

@@ -19,7 +19,7 @@ chat-manager-no-such-channel = Не существует канала с клю�
 chat-manager-whisper-headset-on-message = Вы не можете шептать по радио!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Оповещение:[/font][font size=12]
+chat-manager-sender-announcement-wrap-message = [font size=14][bold]Оповещение от {$sender}:[/font][font size=12]
                                                 {$message}[/bold][/font]
 chat-manager-entity-say-wrap-message = [BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] {$verb}, [font="{$fontType}" size={$fontSize}]"[color={$color}][BubbleContent]{$message}[/BubbleContent][/color]"[/font]
 chat-manager-entity-say-bold-wrap-message = [BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] {$verb}, [font="{$fontType}" size={$fontSize}]"[color={$color}][BubbleContent][bold]{$message}[/bold][/BubbleContent][/color]"[/font]

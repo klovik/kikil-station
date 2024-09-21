@@ -1,5 +1,5 @@
 cage-resist-second-person = Вы начинаете снимать ваш {$cage}.
-cage-resist-third-person = {CAPITALIZE(THE($user))} начинает снимать {POSS-ADJ($user)} {$cage}.
+cage-resist-third-person = {CAPITALIZE($user)} начинает снимать {POSS-ADJ($user)} {$cage}.
 
 cage-uncage-verb = Снять клетку
 
@@ -56,15 +56,15 @@ mindswap-trapped = Похоже, вы оказались в ловушке на 
 telegnostic-trapped-entity-name = отрезанный телегностический выступ
 telegnostic-trapped-entity-desc = Его многочисленные глаза выдают печаль.
 
-psionic-burns-up = {CAPITALIZE(THE($item))} сгорает от дуг странной энергии!
-psionic-burn-resist = Странные дуги танцуют вокруг {THE($item)}!
+psionic-burns-up = {CAPITALIZE($item)} сгорает от дуг странной энергии!
+psionic-burn-resist = Странные дуги танцуют вокруг {$item}!
 
 action-name-noospheric-zap = Ноосферный замок
 action-description-noospheric-zap = Шокировать сознание цели и оставляет ее оглушённой и заикающейся.
 
 action-name-pyrokinesis = Пирокинез
 action-description-pyrokinesis = Поджечь легковоспламеняющуюся цель.
-pyrokinesis-power-used = A wisp of flame engulfs {THE($target)}, igniting {OBJECT($target)}!
+pyrokinesis-power-used = A wisp of flame engulfs {$target}, igniting {OBJECT($target)}!
 
 action-name-psychokinesis = Психокинез
 action-description-psychokinesis = Сгибайте ткань пространства, чтобы мгновенно перемещаться по нему.
