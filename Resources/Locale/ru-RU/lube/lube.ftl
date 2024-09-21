@@ -1,6 +1,6 @@
-lube-success = {THE($target)} has been covered in lube!
-lubed-name-prefix = Lubed {$target}
-lube-failure = Can't cover {THE($target)} in lube!
-lube-slip = {THE($target)} slips out of your hands!
-lube-verb-text = Apply Lube
-lube-verb-message = Lube an object
+lube-success = {$target} смазан!
+lubed-name-prefix = {$target} смазано.
+lube-failure = Не удаётся смазать {$target}!
+lube-slip = {$target} ускользает из ваших рук!
+lube-verb-text = Применить Смазку
+lube-verb-message = Смазать объект

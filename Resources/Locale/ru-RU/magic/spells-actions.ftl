@@ -1,5 +1,5 @@
-﻿action-speech-spell-forcewall = TARCOL MINTI ZHERI
-action-speech-spell-knock = AULIE OXIN FIERA
-action-speech-spell-smite = EI NATH!
-action-speech-spell-summon-magicarp = AIE KHUSE EU
-action-speech-spell-fireball = ONI'SOMA!
+﻿action-speech-spell-forcewall = ТАРКОЛ МИНТИ ЖЕРИ
+action-speech-spell-knock = АУЛИ ОКСИН ФИЕРА
+action-speech-spell-smite = ЭИ НАТХ!
+action-speech-spell-summon-magicarp = АЙЕ ХУЗЕ УЭЭЭЭ
+action-speech-spell-fireball = ОНИ'СОМА!

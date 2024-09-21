@@ -1,37 +1,37 @@
-loadout-description-LoadoutItemCig = Cool guys always have one.
-loadout-description-LoadoutItemCigsGreen = A pack a day keeps the doctor well-paid!
-loadout-description-LoadoutItemCigsRed = A pack a day keeps the doctor well-paid!
-loadout-description-LoadoutItemCigsBlue = A pack a day keeps the doctor well-paid!
-loadout-description-LoadoutItemCigsBlack = A pack a day keeps the doctor well-paid!
-loadout-description-LoadoutItemPAI = A little flakey on booting up, but a more loyal friend you won't find.
-loadout-description-LoadoutItemLighter = A basic lighter.
-loadout-description-LoadoutItemLighterCheap = A very basic lighter.
-loadout-description-LoadoutItemMatches = A box of matches.
-loadout-description-LoadoutItemPlushieSharkBlue = Dive into battle with your very own aquatic ally, the Blue Shark Plushie! It's more cuddly than fierce, but don't underestimate its ability to strike fear into the hearts of your enemies… or at least make them laugh as they're devoured by cuteness overload.
-loadout-description-LoadoutItemPlushieSharkPink = Unleash the power of pink with the Pink Shark Plushie! This rosy-hued predator might not have real teeth, but its sheer adorableness is enough to take a bite out of anyone's resolve. Watch as foes melt away in the face of its cottony charm.
-loadout-description-LoadoutItemPlushieSharkGrey = Introducing the Grey Shark Plushie, the apex predator of snuggles! With its sleek and understated design, this plushie strikes the perfect balance between cuddle companion and imaginary ocean guardian. Beware; opponents may be mesmerized by its dorsal fin's hypnotic sway!
-loadout-description-LoadoutItemPlushieCarp = Brace for extraterrestrial antics with the Purple Space Carp Plushie! A fishy invader from the cosmic deep, this plushie brings a splash of humor to zero-gravity escapades. From hostile waters to interstellar giggles, it's a cuddly contradiction that's out of this world
-loadout-description-LoadoutSolCommonTranslator = The most common of all translators, such that it can be purchased in any civilized station.
-                                                 This device translates Sol Common speech into Galactic Common.
-loadout-name-LoadoutItemPapers = papers (x4)
-loadout-description-LoadoutItemPapers = four pieces of paper, good for filling out tedious paperwork and silent communication.
-loadout-description-LoadoutItemBoxFolderGrey = A folder to store papers and top secret documents.
-loadout-description-LoadoutBookRandom = A notebook with a random cover. Can be used as a diary, or for writing fanfiction drafts for SpacePad.
-loadout-description-LoadoutPen = An extra pen, just in case your pen from your PDA gets robbed by skeletal space pirates.
-loadout-description-LoadoutItemLunchboxGenericFilledRandom = Packed with love.
-                                                             This is only useful when the chefs are either a.) nonexistent or b.) not doing their job.
-                                                             In conclusion, this lunchbox is useful most of the time.
-loadout-description-LoadoutHandLabeler = A hand labeler, used to label items and objects.
-                                         It's not really recommended to use this to label a fuel tank with "SOLUTION TO CLOWN PROBLEM".
-loadout-description-LoadoutEmergencyMedipen = A rapid and safe way to stabilize patients in critical condition for personnel without advanced medical knowledge.
-                                              WARNING: injecting two emergency medipens at once will cause an epinephrine overdose.
-loadout-description-LoadoutSpaceMedipen = Contains a mix of chemicals that protect you from the deadly effects of space.
-                                          Also known as the "poor man's hardsuit".
-                                          WARNING: injecting two space medipens at once will cause a barozine overdose.
+loadout-description-LoadoutItemCig = У крутых парней всегда есть одна.
+loadout-description-LoadoutItemCigsGreen = Пачка на ужин, и врач загружен.
+loadout-description-LoadoutItemCigsRed = Пачка на ужин, и врач загружен.
+loadout-description-LoadoutItemCigsBlue = Пачка на ужин, и врач загружен.
+loadout-description-LoadoutItemCigsBlack = Пачка на ужин, и врач загружен.
+loadout-description-LoadoutItemPAI = Немного хлипковат при загрузке, но более верного друга вам не найти.
+loadout-description-LoadoutItemLighter = Базовая зажигалка.
+loadout-description-LoadoutItemLighterCheap = Очень базовая зажигалка.
+loadout-description-LoadoutItemMatches = Коробок спичек.
+loadout-description-LoadoutItemPlushieSharkBlue = Погрузитесь в бой со своим собственным водным союзником - плюшевой голубой акулой! Она скорее милая, чем свирепая, но не стоит недооценивать ее способность вселять страх в сердца ваших врагов... или, по крайней мере, заставлять их смеяться, когда они будут пожираемы перегрузкой миловидности.
+loadout-description-LoadoutItemPlushieSharkPink = Раскройте силу розового цвета с помощью Розовой Плюшевой Акулы! У этой розовощекой хищницы, возможно, и нет настоящих зубов, но ее очаровательности хватит, чтобы побороть любую решимость. Наблюдайте, как враги тают перед ее мягким очарованием.
+loadout-description-LoadoutItemPlushieSharkGrey = Представляем вам плюшевую игрушку «Серая акула» - хищника среди любителей обнимашек! Благодаря своему элегантному и сдержанному дизайну эта плюшевая акула идеально сочетает в себе как товарища по объятиям, так и воображаемого стража океана. Остерегайтесь: противники могут быть заворожены гипнотическим покачиванием спинного плавника!
+loadout-description-LoadoutItemPlushieCarp = Приготовьтесь к внеземным выходкам с фиолетовым плюшевым космическим карпом! Этот плюшевый захватчик из космических глубин привнесет в эскапады в условиях невесомости немного юмора. От враждебных вод до межзвездного хихиканья - это плюшевое противоречие, которое не имеет аналогов в этом мире.
+loadout-description-LoadoutSolCommonTranslator = Самый распространенный из всех переводчиков, такой, что его можно купить на любой цивилизованной станции.
+                                                 Это устройство переводит речь Системы Сол на Стандартный Космический.
+loadout-name-LoadoutItemPapers = бумаги (x4)
+loadout-description-LoadoutItemPapers = четыре листа бумаги, которые пригодятся для заполнения нудных бумаг и молчаливого общения.
+loadout-description-LoadoutItemBoxFolderGrey = Папка для хранения бумаг и совершенно секретных документов.
+loadout-description-LoadoutBookRandom = Блокнот со случайной обложкой. Может использоваться как дневник или для написания черновиков фанфиков для SpacePad.
+loadout-description-LoadoutPen =Запасная ручка - на случай, если вашу ручку из КПК похитят скелетные космические пираты.
+loadout-description-LoadoutItemLunchboxGenericFilledRandom = Наполнена любовью.
+                                                             Это полезно только в том случае, если повара либо а.) не существуют, либо б.) не справляются со своей работой.
+                                                             В заключение, этот ланчбокс пригодится в большинстве случаев.
+loadout-description-LoadoutHandLabeler = Ручной этикетировщик, используемый для маркировки предметов и объектов.
+                                        Не рекомендуется использовать его для маркировки топливного бака надписью «РЕШЕНИЕ ДЛЯ КЛОУНСКИХ ПРОБЛЕМ».
+loadout-description-LoadoutEmergencyMedipen = Быстрый и безопасный способ стабилизации состояния пациентов в критическом состоянии для персонала, не обладающего глубокими медицинскими знаниями.
+                                              ПРЕДУПРЕЖДЕНИЕ: одновременное введение двух экстренных медипенов может привести к передозировке эпинефрином.
+loadout-description-LoadoutSpaceMedipen = Содержит смесь химических веществ, которые защищают вас от смертоносного воздействия космоса.
+                                          Также известен как «костюм бедняка».
+                                          ПРЕДУПРЕЖДЕНИЕ: одновременный прием двух КосмоМедипПенов приведет к передозировке барозином.
 
-loadout-name-LoadoutItemBoxSurvival = survival box (standard)
-loadout-name-LoadoutItemBoxSurvivalEngineering = extended-capacity survival box (engineering)
-loadout-name-LoadoutItemBoxSurvivalSecurity = survival box (security)
-loadout-name-LoadoutItemBoxSurvivalBrigmedic = survival box (corpsman)
-loadout-name-LoadoutItemBoxSurvivalMedical = survival box (medical)
-loadout-name-LoadoutItemBoxHug = box of hugs (clown)
+loadout-name-LoadoutItemBoxSurvival = аварийный запас (стандартный)
+loadout-name-LoadoutItemBoxSurvivalEngineering = расширенный аварийный запас (инженерный)
+loadout-name-LoadoutItemBoxSurvivalSecurity = аварийный запас (безопасность)
+loadout-name-LoadoutItemBoxSurvivalBrigmedic = аварийный запас (санитарный)
+loadout-name-LoadoutItemBoxSurvivalMedical = аварийный запас (медицинский)
+loadout-name-LoadoutItemBoxHug = коробка обнимашек (клоунский)

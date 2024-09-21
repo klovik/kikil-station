@@ -1,4 +1,4 @@
-loadout-description-LoadoutCommandHOPNeckMantle = To show who has the authority around here.
-loadout-description-LoadoutCommandHOPNeckCloak = To really show who has the authority around here.
-loadout-description-LoadoutCommandHOPBackIan = A backpack that looks like Ian, how cute!
-loadout-description-LoadoutCommandHOPHatCap = The HOP's cap, pretty nice.
+loadout-description-LoadoutCommandHOPNeckMantle = Чтобы показать, кто здесь авторитет.
+loadout-description-LoadoutCommandHOPNeckCloak = Чтобы показать, кто здесь главный.
+loadout-description-LoadoutCommandHOPBackIan = Рюкзак, похожий на Кикила, как мило!
+loadout-description-LoadoutCommandHOPHatCap = Шапка ГП, довольно красивая.

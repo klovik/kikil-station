@@ -1,15 +1,15 @@
 # Alphabetically ordered, except for Uncategorized since it is always first
 
-loadout-category-Uncategorized = Uncategorized
-loadout-category-Accessories = Accessories
-loadout-category-Eyes = Eyes
-loadout-category-Hands = Hands
-loadout-category-Head = Head
-loadout-category-Items = Items
-loadout-category-Jobs = Jobs
-loadout-category-Mask = Mask
-loadout-category-Neck = Neck
-loadout-category-Outer = Outer
-loadout-category-Shoes = Shoes
-loadout-category-Species = Species
-loadout-category-Uniform = Uniform
+loadout-category-Uncategorized = Без категории
+loadout-category-Accessories = Аксессуары
+loadout-category-Eyes = Глаза
+loadout-category-Hands = Руки
+loadout-category-Head = Голова
+loadout-category-Items = Предметы
+loadout-category-Jobs = Профессии
+loadout-category-Mask = Маска
+loadout-category-Neck = Шея
+loadout-category-Outer = Верхняя
+loadout-category-Shoes = Ботинки
+loadout-category-Species = Прочее
+loadout-category-Uniform = Униформа
