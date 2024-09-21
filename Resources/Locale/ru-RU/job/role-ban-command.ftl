@@ -1,27 +1,27 @@
 ﻿### Localization for role ban command
 
-cmd-roleban-desc = Bans a player from a role
-cmd-roleban-help = Usage: roleban <name or user ID> <job> <reason> [duration in minutes, leave out or 0 for permanent ban]
+cmd-roleban-desc = Банит роль для игрока
+cmd-roleban-help = Использование: roleban <имя или ID игрока> <роль> <причина> [длительность (мин), или оставьте 0 для пермбана]
 
 ## Completion result hints
-cmd-roleban-hint-1 = <name or user ID>
-cmd-roleban-hint-2 = <job>
+cmd-roleban-hint-1 = <имя или ID игрока>
+cmd-roleban-hint-2 = <роль>
 cmd-roleban-hint-3 = <reason>
-cmd-roleban-hint-4 = [duration in minutes, leave out or 0 for permanent ban]
-cmd-roleban-hint-5 = [severity]
+cmd-roleban-hint-4 = [длительность (мин), или оставьте 0 для пермбана]
+cmd-roleban-hint-5 = [тяжесть]
 
-cmd-roleban-hint-duration-1 = Permanent
-cmd-roleban-hint-duration-2 = 1 day
-cmd-roleban-hint-duration-3 = 3 days
-cmd-roleban-hint-duration-4 = 1 week
-cmd-roleban-hint-duration-5 = 2 week
-cmd-roleban-hint-duration-6 = 1 month
+cmd-roleban-hint-duration-1 = Пермбан
+cmd-roleban-hint-duration-2 = 1 день
+cmd-roleban-hint-duration-3 = 3 дня
+cmd-roleban-hint-duration-4 = 1 неделя
+cmd-roleban-hint-duration-5 = 2 недели
+cmd-roleban-hint-duration-6 = 1 месяц
 
 
 ### Localization for role unban command
 
-cmd-roleunban-desc = Pardons a player's role ban
-cmd-roleunban-help = Usage: roleunban <role ban id>
+cmd-roleunban-desc = Разблокирует игроку доступ к роли
+cmd-roleunban-help = Использование: roleunban <role ban id>
 
 ## Completion result hints
 cmd-roleunban-hint-1 = <role ban id>

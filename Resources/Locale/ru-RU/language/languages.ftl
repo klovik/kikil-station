@@ -1,77 +1,77 @@
-language-Universal-name = Universal
-language-Universal-description = What are you?
+language-Universal-name = Универсальный
+language-Universal-description = Что ты такое?
 
-language-GalacticCommon-name = Galactic common
+language-GalacticCommon-name = Стандартный галактический
 language-GalacticCommon-description = The standard Galatic language, most commonly used for inter-species communications and legal work.
 
-language-Bubblish-name = Bubblish
-language-Bubblish-description = The language of Slimes. Being a mixture of bubbling noises and pops it's very difficult to speak for humans without the use of mechanical aids.
+language-Bubblish-name = Блоплиш
+language-Bubblish-description = Язык слизеринцев. На нем, состоящем из булькающих звуков и хлопков, очень трудно говорить людям без использования механических приспособлений.
 
-language-RootSpeak-name = Rootspeak
-language-RootSpeak-description = The strange whistling-style language spoken by the Diona.
+language-RootSpeak-name = Рутспик
+language-RootSpeak-description = Странный язык, на котором говорят дионы, похожий на свист.
 
-language-Nekomimetic-name = Nekomimetic
-language-Nekomimetic-description = To the casual observer, this language is an incomprehensible mess of broken Japanese. To the felinids, it's somehow comprehensible.
+language-Nekomimetic-name = Некомиметический
+language-Nekomimetic-description = Для случайного наблюдателя этот язык - непонятная каша из ломаного японского. Для фелинидов он хоть как-то понятен.
 
-language-Draconic-name = Draconic
-language-Draconic-description = The common language of lizard-people, composed of sibilant hisses and rattles.
+language-Draconic-name = Драконический
+language-Draconic-description = Общий язык людей-ящериц, состоящий из сибилянтных шипений и хрипов.
 
-language-SolCommon-name = Sol common
-language-SolCommon-description = The language common to species from the Sol System.
+language-SolCommon-name = Сол
+language-SolCommon-description = Язык, общий для видов из системы Сол.
 
 language-Canilunzt-name = Canilunzt
-language-Canilunzt-description = The guttural language spoken and utilized by the inhabitants of the Vazzend system, composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
+language-Canilunzt-description = Гортанный язык, на котором говорят и используют жители системы Ваззенд. Он состоит из рычания, лая, тявканья и активного использования ушей и движений хвоста. Вульпканины говорят на этом языке с легкостью.
 
-language-Moffic-name = Moffic
-language-Moffic-description = The language of the mothpeople borders on complete unintelligibility.
+language-Moffic-name = Мольный
+language-Moffic-description = Язык людей-молей граничит с полной неразборчивостью.
 
-language-RobotTalk-name = RobotTalk
-language-RobotTalk-description = A language consisting of harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
+language-RobotTalk-name = Робот
+language-RobotTalk-description = Язык, состоящий из резких двоичных щебетаний, свистов, шипений и воя. Органические языки не могут говорить на нем без помощи специальных переводчиков.
 
-language-Sign-name = Galactic Sign Language
-language-Sign-description = GSL for short, this sign language is prevalent among mute and deaf people.
+language-Sign-name = Галактический Жестовый Язык
+language-Sign-description = ГЖЯ - этот язык знаков распространен среди немых и глухих людей.
 
-language-Cat-name = Cat
-language-Cat-description = Meow
+language-Cat-name = Кошка
+language-Cat-description = Мяу
 
-language-Dog-name = Dog
-language-Dog-description = Bark!
+language-Dog-name = Собака
+language-Dog-description = Гав!
 
-language-Fox-name = Fox
-language-Fox-description = Yeeps!
+language-Fox-name = Лиса
+language-Fox-description = Иипс!
 
-language-Xeno-name = Xeno
-language-Xeno-description = Sssss!
+language-Xeno-name = Ксено
+language-Xeno-description = Ссссс!
 
-language-Monkey-name = Monkey
-language-Monkey-description = oooook!
+language-Monkey-name = Обезьяна
+language-Monkey-description = Уууук!
 
-language-Mouse-name = Mouse
-language-Mouse-description = Squeeek!
+language-Mouse-name = Мышь
+language-Mouse-description = Сквик!
 
-language-Chicken-name = Chicken
-language-Chicken-description = Coot!
+language-Chicken-name = Курица
+language-Chicken-description = Куут!
 
-language-Duck-name = Duck
-language-Duck-description = Quack!
+language-Duck-name = Утка
+language-Duck-description = Квак!
 
-language-Cow-name = Cow
-language-Cow-description = Moooo!
+language-Cow-name = Корова
+language-Cow-description = Мууу!
 
-language-Sheep-name = Sheep
-language-Sheep-description = Baaah!
+language-Sheep-name = Овца
+language-Sheep-description = Бееее!
 
-language-Kangaroo-name = Kangaroo
-language-Kangaroo-description = Chuu!
+language-Kangaroo-name = Кенгуру
+language-Kangaroo-description = Чууу!
 
-language-Pig-name = Pig
-language-Pig-description = Oink!
+language-Pig-name = Свинья
+language-Pig-description = Хрю!
 
-language-Crab-name = Crab
-language-Crab-description = Click!
+language-Crab-name = Краб
+language-Crab-description = Клик!
 
-language-Kobold-name = Kobold
-language-Kobold-description = Hiss!
+language-Kobold-name = Кобольд
+language-Kobold-description = Хисс!
 
-language-Hissing-name = Hissing
-language-Hissing-description = Hiss!
+language-Hissing-name = Хисс
+language-Hissing-description = Хисс!

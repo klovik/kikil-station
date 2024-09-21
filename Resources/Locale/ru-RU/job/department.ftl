@@ -1,8 +1,8 @@
-department-Cargo = Cargo
-department-Civilian = Civilian
-department-Command = Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Security = Security
-department-Science = Science
-department-Specific = Station specific
+department-Cargo = Снабжение
+department-Civilian = Сервис
+department-Command = Командование
+department-Engineering = Инженерный
+department-Medical = Медицинский
+department-Security = Безопасность
+department-Science = Наука
+department-Specific = Специфические для станций
