@@ -1,31 +1,31 @@
-nuke-component-cant-anchor-floor = The anchoring bolts fail to lock into the floor!
-nuke-component-announcement-sender = Nuclear Fission Explosive
-nuke-component-announcement-armed = Attention! The station's self-destruct mechanism has been engaged {$location}. {$time} seconds until detonation. If this was made in error, the mechanism may still be disarmed.
-nuke-component-announcement-unarmed = The station's self-destruct was deactivated! Have a nice day!
-nuke-component-announcement-send-codes = Attention! Self-destruction codes have been sent to designated fax machines.
-nuke-component-doafter-warning = You start fiddling with wires and knobs in order to disarm the nuke.. This may take a while.
+nuke-component-cant-anchor-floor = Болты не фиксируются в полу!
+nuke-component-announcement-sender = Взрывчатое вещество для ядерного деления
+nuke-component-announcement-armed = Внимание! Задействован механизм самоуничтожения станции {$location}. До детонации осталось {$time} секунд. Если это было сделано по ошибке, механизм все еще может быть обезврежен.
+nuke-component-announcement-unarmed = Самоуничтожение станции было деактивировано! Хорошего дня!
+nuke-component-announcement-send-codes = Внимание! На указанные факсы отправлены коды самоуничтожения.
+nuke-component-doafter-warning = Вы начинаете возиться с проводами и переключателями, чтобы обезвредить ядерную бомбу. Это может занять некоторое время.
 
 # Nuke UI
 nuke-user-interface-title = Nuclear Fission Explosive
-nuke-user-interface-arm-button = ARM
-nuke-user-interface-disarm-button = DISARM
-nuke-user-interface-anchor-button = ANCHOR
-nuke-user-interface-eject-button = EJECT
+nuke-user-interface-arm-button = АКТИВИРОВАТЬ
+nuke-user-interface-disarm-button = ОБЕЗВРЕДИТЬ
+nuke-user-interface-anchor-button = ЗАКРЕПИТЬ
+nuke-user-interface-eject-button = ИЗВЛЕЧЬ
 
 ## Upper status
-nuke-user-interface-first-status-device-locked = DEVICE LOCKED
-nuke-user-interface-first-status-input-code = INPUT CODE
-nuke-user-interface-first-status-input-time = INPUT TIME
-nuke-user-interface-first-status-device-ready = DEVICE READY
-nuke-user-interface-first-status-device-armed = DEVICE ARMED
-nuke-user-interface-first-status-device-cooldown = DEACTIVATED
-nuke-user-interface-status-error = ERROR
+nuke-user-interface-first-status-device-locked = УСТРОЙСТВО ЗАБЛОКИРОВАНО
+nuke-user-interface-first-status-input-code = ВВЕДИТЕ КОД
+nuke-user-interface-first-status-input-time = ВВЕДИТЕ ВРЕМЯ
+nuke-user-interface-first-status-device-ready = УСТРОЙСТВО ГОТОВО
+nuke-user-interface-first-status-device-armed = УСТРОЙСТВО ЗАРЯЖЕНО
+nuke-user-interface-first-status-device-cooldown = ДЕАКТИВИРОВАНО
+nuke-user-interface-status-error = ОШИБКА
 
 ## Lower status
-nuke-user-interface-second-status-await-disk = AWAIT DISK
-nuke-user-interface-second-status-time = TIME: {$time}
-nuke-user-interface-second-status-current-code = CODE: {$code}
-nuke-user-interface-second-status-cooldown-time = WAIT: {$time}
+nuke-user-interface-second-status-await-disk = ОЖИДАЕТСЯ ДИСК
+nuke-user-interface-second-status-time = ВРЕМЯ: {$time}
+nuke-user-interface-second-status-current-code = КОД: {$code}
+nuke-user-interface-second-status-cooldown-time = ЖДИТЕ: {$time}
 
 ## Nuke labels
 nuke-label-nanotrasen = NT-{$serial}
@@ -35,13 +35,13 @@ nuke-label-nanotrasen = NT-{$serial}
 nuke-label-syndicate = SYN-{$serial}
 
 # Codes
-nuke-codes-message = [color=red]TOP SECRET![/color]
-nuke-codes-list = {$name} code: {$code}
-nuke-codes-fax-paper-name = nuclear authentication codes
+nuke-codes-message = [color=red]СЕКРЕТНО![/color]
+nuke-codes-list = {$name} код: {$code}
+nuke-codes-fax-paper-name = коды ядерной аутентификации
 
 # Nuke disk slot
-nuke-slot-component-slot-name-disk = Disk
+nuke-slot-component-slot-name-disk = Диск
 
 ## Examine
-nuke-examine-armed = Hey uh, why's that [color=red]red light[/color] blinking?
-nuke-examine-exploding = Yeah... I think it's too late buddy.
+nuke-examine-armed = Эй, а почему этот [color=red]красный светодиод[/color] моргает?
+nuke-examine-exploding = Да... Думаю, уже слишком поздно, приятель.

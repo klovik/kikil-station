@@ -1,6 +1,6 @@
-ninja-no-power = Not enough charge in suit battery!
-ninja-revealed = You have been revealed!
-ninja-suit-cooldown = The suit needs time to recuperate from the last attack.
+ninja-no-power = Недостаточно заряда в аккумуляторе костюма!
+ninja-revealed = Вы были раскрыты!
+ninja-suit-cooldown = Костюму нужно время, чтобы восстановиться после последней атаки.
 
-ninja-research-steal-fail = No new research nodes were stolen...
-ninja-research-steal-success = Stole {$count} new nodes from {THE($server)}.
+ninja-research-steal-fail = Ни один новый исследовательский узел не был похищен...
+ninja-research-steal-success = Украдено {$count} новых узлов с сервера {$server}.
