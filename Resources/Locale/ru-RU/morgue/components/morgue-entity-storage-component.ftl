@@ -1,4 +1,4 @@
-morgue-entity-storage-component-on-examine-details-body-has-soul = The content light is [color=green]green[/color], this body might still be saved!
-morgue-entity-storage-component-on-examine-details-body-has-no-soul = The content light is [color=red]red[/color], there's a dead body in here! Oh wait...
-morgue-entity-storage-component-on-examine-details-has-contents = The content light is [color=yellow]yellow[/color], there's something in here.
-morgue-entity-storage-component-on-examine-details-empty = The content light is off, there's nothing in here.
+morgue-entity-storage-component-on-examine-details-body-has-soul = Свет внутри горит [color=green]зелёным[/color], это тело ещё может быть спасено!
+morgue-entity-storage-component-on-examine-details-body-has-no-soul = Свет внутри горит [color=red]красным[/color], внутри мёртвое тело! Ой, подождите..
+morgue-entity-storage-component-on-examine-details-has-contents = Свет внутри горит [color=yellow]жёлтым[/color], здесь есть что-то внутри.
+morgue-entity-storage-component-on-examine-details-empty = Свет внутри не горит. Здесь ничего нет.

@@ -11,11 +11,11 @@ lathe-menu-tooltip-display = {$amount} {$material}
 lathe-menu-description-display = [italic]{$description}[/italic]
 lathe-menu-material-amount = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit}
-    *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)}
+    *[other] {NATURALFIXED($amount, 2)}
 }
 lathe-menu-material-amount-missing = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} отсутствует[/color])
-    *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} отсутствует[/color])
+    [1] {NATURALFIXED($amount, 2)} {$unit} {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} отсутствует[/color])
+    *[other] {NATURALFIXED($amount, 2)} {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} отсутствует[/color])
 }
 lathe-menu-no-materials-message = Материалы не загружены.
 lathe-menu-fabricating-message = Фабрикация...
