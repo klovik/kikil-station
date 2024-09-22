@@ -1,6 +1,6 @@
-cpr-start-second-person = You start performing CPR on {CAPITALIZE($target)}.
-cpr-start-second-person-patient = {CAPITALIZE(THE($user))} starts performing CPR on you.
-cpr-must-remove = You must remove {THE($clothing)} from the patient.
-cpr-must-remove-own-mask = You must remove your {THE($clothing)}.
-cpr-target-rotting = {CAPITALIZE($entity)} is too far gone...
-cpr-verb = Perform CPR
+cpr-start-second-person = Вы начинаете делать искусственное дыхание {CAPITALIZE($target)}.
+cpr-start-second-person-patient = {CAPITALIZE($user)} начинает делать вам искусственное дыхание.
+cpr-must-remove = Вы должны снять {$clothing} с пациента.
+cpr-must-remove-own-mask = Вы должны снять {$clothing}.
+cpr-target-rotting = {CAPITALIZE($entity)} слишком далеко...
+cpr-verb = Выполнить искусственное дыхание

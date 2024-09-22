@@ -1,3 +1,3 @@
-﻿defibrillator-not-on = The defibrillator isn't turned on.
-defibrillator-no-mind = No intelligence pattern can be detected in patient's brain. Further attempts futile.
-defibrillator-rotten = Body decomposition detected: resuscitation failed.
+﻿defibrillator-not-on = Дефибриллятор не включен.
+defibrillator-no-mind = В мозгу пациента не удалось обнаружить никаких интеллектуальных паттернов. Дальнейшие попытки бесполезны.
+defibrillator-rotten = Обнаружено разложение тела: реанимация не удалась.

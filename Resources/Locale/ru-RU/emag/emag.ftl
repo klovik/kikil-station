@@ -1,2 +1,2 @@
-emag-success = Карточка что-то цепляет в {$target}.
+emag-success = Карта замыкает что-то в {$target}.
 emag-no-charges = Нет зарядов!

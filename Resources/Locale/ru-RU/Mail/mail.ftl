@@ -1,30 +1,30 @@
-mail-recipient-mismatch = Recipient name or job does not match.
-mail-invalid-access = Recipient name and job match, but access isn't as expected.
-mail-locked = The anti-tamper lock hasn't been removed. Tap the recipient's ID.
-mail-desc-far = A parcel of mail. You can't make out who it's addressed to from this distance.
-mail-desc-close = A parcel of mail addressed to {CAPITALIZE($name)}, {$job}.
-mail-desc-fragile = It has a [color=red]red fragile label[/color].
-mail-desc-priority = The anti-tamper lock's [color=yellow]yellow priority tape[/color] is active. Better deliver it on time!
-mail-desc-priority-inactive = The anti-tamper lock's [color=#886600]yellow priority tape[/color] is inactive.
-mail-unlocked = Anti-tamper system unlocked.
-mail-unlocked-by-emag = Anti-tamper system *BZZT*.
-mail-unlocked-reward = Anti-tamper system unlocked. {$bounty} spesos have been added to logistics's account.
-mail-penalty-lock = ANTI-TAMPER LOCK BROKEN. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
-mail-penalty-fragile = INTEGRITY COMPROMISED. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
-mail-penalty-expired = DELIVERY PAST DUE. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} CREDITS.
-mail-item-name-unaddressed = mail
-mail-item-name-addressed = mail ({$recipient})
+mail-recipient-mismatch = Имя получателя или должность не совпадают.
+mail-invalid-access = Имя получателя и должность совпадают, но доступ не соответствует ожиданиям.
+mail-locked = Защита от взлома не снята. Нажмите идентификатор получателя.
+mail-desc-far = Почтовая посылка. С такого расстояния невозможно разобрать, кому она адресована.
+mail-desc-close = Почтовая посылка, адресованная {CAPITALIZE($name)}, {$job}.
+mail-desc-fragile = Оно имеет [color=red]красную этикетку "ХРУПКОЕ"[/color].
+mail-desc-priority = Защита от взлома [color=yellow]желтая лента приоритета[/color] активна. Лучше доставить это во время!
+mail-desc-priority-inactive = Защита от взлома [color=#886600]желтая лента приоритета[/color] не активна.
+mail-unlocked = Защита от взлома снята.
+mail-unlocked-by-emag = Защита от взлома *БЗЗТ*.
+mail-unlocked-reward = Защита от взлома снята. {$bounty} кредитов было добавлено на счёт карго.
+mail-penalty-lock = ЗАЩИТА ОТ ВЗЛОМА ПОВРЕЖДЕНА. СЧЁТ КАРГО БЫЛ ОШТРАФОВАН НА {$credits} КРЕДИТОВ.
+mail-penalty-fragile = ЦЕЛОСТНОСТЬ ПОСЫЛКИ НАРУШЕНА. СЧЁТ КАРГО БЫЛ ОШТРАФОВАН НА {$credits} КРЕДИТОВ.
+mail-penalty-expired = ДОСТАВКА ПРОСРОЧЕНА. СЧЁТ КАРГО БЫЛ ОШТРАФОВАН НА {$credits} КРЕДИТОВ.
+mail-item-name-unaddressed = посылка
+mail-item-name-addressed = посылка ({$recipient})
 
-command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
-command-mailto-help = Usage: {$command} <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false]
-command-mailto-no-mailreceiver = Target recipient entity does not have a {$requiredComponent}.
-command-mailto-no-blankmail = The {$blankMail} prototype doesn't exist. Something is very wrong. Contact a programmer.
-command-mailto-bogus-mail = {$blankMail} did not have {$requiredMailComponent}. Something is very wrong. Contact a programmer.
-command-mailto-invalid-container = Target container entity does not have a {$requiredContainer} container.
-command-mailto-unable-to-receive = Target recipient entity was unable to be setup for receiving mail. ID may be missing.
-command-mailto-no-teleporter-found = Target recipient entity was unable to be matched to any station's mail teleporter. Recipient may be off-station.
-command-mailto-success = Success! Mail parcel has been queued for next teleport in {$timeToTeleport} seconds.
+command-mailto-description = Постановка посылки в очередь для доставки субъекту. Пример: `mailto 1234 5678 false false`. Содержимое целевого контейнера будет перенесено в реальную почтовую посылку.
+command-mailto-help = Использование: {$command} <Uid энтити получателя> <Uid энтити контейнера> [is-fragile: true or false] [is-priority: true or false]
+command-mailto-no-mailreceiver = Целевая организация-получатель не имеет компонента {$requiredComponent}.
+command-mailto-no-blankmail = Прототип {$blankMail} не существует. Что-то сломалось. Свяжитесь с программистом.
+command-mailto-bogus-mail = {$blankMail} не имеет компонента {$requiredMailComponent}. Что-то сломалось. Свяжитесь с программистом.
+command-mailto-invalid-container = Энтити контейнера не имеет контейнера {$requiredContainer}.
+command-mailto-unable-to-receive = Целевой энтити получателя не удалось настроить для получения почты. Идентификатор может отсутствовать.
+command-mailto-no-teleporter-found = Целевой энтити получателя не удалось сопоставить с почтовым телепортом какой-либо станции. Получатель может находиться за пределами станции.
+command-mailto-success = Успех! Почтовая посылка поставлена в очередь на следующий телепорт через {$timeToTeleport} секунд.
 
-command-mailnow = Force all mail teleporters to deliver another round of mail as soon as possible. This will not bypass the undelivered mail limit.
-command-mailnow-help = Usage: {$command}
-command-mailnow-success = Success! All mail teleporters will be delivering another round of mail soon.
+command-mailnow = Заставляет все почтовые телепорты доставлять очередную порцию почты как можно скорее. Это не обходит лимит недоставленной почты.
+command-mailnow-help = Использование: {$command}
+command-mailnow-success = Успех! Все почтовые телепорты скоро доставят очередную порцию почты.

@@ -1,13 +1,13 @@
-main-menu-invalid-username-with-reason = Invalid username:
+main-menu-invalid-username-with-reason = Неверный никнейм:
                                          {$invalidReason}
-main-menu-invalid-username = Invalid username
-main-menu-failed-to-connect = Failed to connect:
+main-menu-invalid-username = Неверный никнейм
+main-menu-failed-to-connect = Не удалось подключиться:
                               {$reason}
-main-menu-username-label = Username:
-main-menu-username-text = Username
-main-menu-address-label = Server Address:
-main-menu-join-public-server-button = Join Public Server
-main-menu-join-public-server-button-tooltip = Cannot connect to public server with a debug build.
-main-menu-direct-connect-button = Direct Connect
-main-menu-options-button = Options
-main-menu-quit-button = Quit
+main-menu-username-label = Никнейм:
+main-menu-username-text = Никнейм
+main-menu-address-label = Адрес сервера:
+main-menu-join-public-server-button = Присоединиться
+main-menu-join-public-server-button-tooltip = Такую хуйню нельзя делать с дебаг сборки.
+main-menu-direct-connect-button = Прямое подключение
+main-menu-options-button = Настройки
+main-menu-quit-button = Выйти
