@@ -1,6 +1,6 @@
 ﻿command-description-visualize =
     Получает входной список энтити и помещает их в окно пользовательского интерфейса для удобства просмотра.
-command-description-runverbas 
+command-description-runverbas =
     Выполнить глагол над входными энтити с указанным пользователем.
 command-description-acmd-perms =
     Возвращает права администратора для данной команды, если таковые имеются.

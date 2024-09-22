@@ -16,7 +16,7 @@ comp-climbable-user-climbs-other  = { CAPITALIZE($user) } взбирается �
 comp-climbable-user-climbs-force = Вы насильно помещаете { $moved-user } на { $climbable }!
 
 # Shown to others when someone forces other $moved-user to climb on $climbable
-comp-climbable-user-climbs-force-other = { CAPITALIZE(($user) } насильно помещает { $moved-user } на { $climbable }!
+comp-climbable-user-climbs-force-other = { CAPITALIZE($user) } насильно помещает { $moved-user } на { $climbable }!
 
 # Shown to you when your character is far away from climbable
 comp-climbable-cant-reach = Вы не можете туда дотянуться!
