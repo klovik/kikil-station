@@ -1,4 +1,4 @@
-comp-kitchen-spike-deny-collect = На { ($this) } уже что-то есть, сначала соберите с него мясо!
+comp-kitchen-spike-deny-collect = На {$this} уже что-то есть, сначала соберите с него мясо!
 comp-kitchen-spike-deny-butcher = { CAPITALIZE($victim) } не может быть разделан на { $this }.
 comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE($victim) } не может быть разделан на { THE($this) }, вам нужно разделать это с помощью ножа.
 comp-kitchen-spike-deny-not-dead = { CAPITALIZE($victim) } не может быть разделан. { CAPITALIZE(SUBJECT($victim)) } { CONJUGATE-BE($victim) } не мёртв!
