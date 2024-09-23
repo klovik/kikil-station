@@ -1,47 +1,47 @@
 ## DeepFryer Entity
 
-deep-fryer-blacklist-item-failed = {CAPITALIZE(THE($item))} fails to be covered in oil.
-deep-fryer-oil-purity-low = {CAPITALIZE(THE($deepFryer))} sputters to no effect.
-deep-fryer-oil-volume-low = {CAPITALIZE(THE($deepFryer))} burns and spews smoke!
-deep-fryer-oil-no-slag = There's no slag to drain.
+deep-fryer-blacklist-item-failed = Не удается покрыть { $item } маслом.
+deep-fryer-oil-purity-low = {CAPITALIZE($deepFryer)} безрезультатно брызжет.
+deep-fryer-oil-volume-low = {CAPITALIZE($deepFryer)} горит и извергает дым!
+deep-fryer-oil-no-slag = Там нет шлака, который нужно было бы сливать.
 
-deep-fryer-storage-full = All of the baskets are full.
-deep-fryer-storage-no-fit = {CAPITALIZE(THE($item))} won't fit inside one of the baskets.
-deep-fryer-interact-using-not-item = That doesn't seem to be an item.
+deep-fryer-storage-full = Все корзины полны.
+deep-fryer-storage-no-fit = {CAPITALIZE($item)} не поместится ни в одну из корзин.
+deep-fryer-interact-using-not-item = Кажется, это не предмет.
 
-deep-fryer-need-liquid-container-in-hand = You need to first hold a liquid container like a beaker or bowl in your active hand.
+deep-fryer-need-liquid-container-in-hand = Сначала вам нужно взять в активную руку емкость с жидкостью, например мензурку или миску.
 
-deep-fryer-thrown-missed = Missed!
-deep-fryer-thrown-hit-oil = Plop!
-deep-fryer-thrown-hit-oil-low = Plonk!
+deep-fryer-thrown-missed = Промах!
+deep-fryer-thrown-hit-oil = Плоп!
+deep-fryer-thrown-hit-oil-low = Плонк!
 
-deep-fryer-entity-escape = {CAPITALIZE(THE($victim))} leaps out of {THE($deepFryer)}!
+deep-fryer-entity-escape = {CAPITALIZE($victim)} выпрыгивает из {$deepFryer}!
 
 ## DeepFryer UI
 
-deep-fryer-window-title = Deep Fryer
-deep-fryer-label-baskets = Baskets
-deep-fryer-label-oil-level = Oil Level
-deep-fryer-label-oil-purity = Oil Purity
-deep-fryer-button-insert-item = Insert Item
-deep-fryer-button-insert-item-tooltip = Place your held item into one of the deep fryer baskets.
-deep-fryer-button-scoop-vat = Scoop Vat
-deep-fryer-button-scoop-vat-tooltip = Scoop out some liquid from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-clear-slag = Clear Slag
-deep-fryer-button-clear-slag-tooltip = Clear out some waste from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-remove-all-items = Remove All Items
-deep-fryer-button-remove-all-items-tooltip = Remove all of the items from the deep fryer baskets at once.
+deep-fryer-window-title = Фритюрница
+deep-fryer-label-baskets = Корзины
+deep-fryer-label-oil-level = Уровень масла
+deep-fryer-label-oil-purity = Чистота масла
+deep-fryer-button-insert-item = Вставить Предмет
+deep-fryer-button-insert-item-tooltip = Поместите выбранное вами изделие в одну из корзин фритюрницы.
+deep-fryer-button-scoop-vat = Совок
+deep-fryer-button-scoop-vat-tooltip = Зачерпните немного жидкости из чана с маслом. Для этого вам понадобится емкость для жидкости.
+deep-fryer-button-clear-slag = Очистить шлак
+deep-fryer-button-clear-slag-tooltip = Очистите масляный чан от отходов. Для этого вам понадобится емкость для жидкости.
+deep-fryer-button-remove-all-items = Убрать все предметы
+deep-fryer-button-remove-all-items-tooltip = Выньте из корзин фритюрницы сразу все предметы.
 
 ## DeepFriedComponent
 
-deep-fried-crispy-item = crispy {$entity}
-deep-fried-crispy-item-examine = It's covered in a crispy, oily texture.
+deep-fried-crispy-item = хрустящий {$entity}
+deep-fried-crispy-item-examine = Он покрыт хрустящей маслянистой текстурой.
 
-deep-fried-fried-item = deep-fried {$entity}
-deep-fried-fried-item-examine = It's covered in a thick, crispy layer.
+deep-fried-fried-item = обжаренный {$entity}
+deep-fried-fried-item-examine = Оно покрыто толстой хрустящей корочкой.
 
-deep-fried-burned-item = burned {$entity}
-deep-fried-burned-item-examine = It's blackened with char.
+deep-fried-burned-item = сгоревший {$entity}
+deep-fried-burned-item-examine = Оно почернело.
 
-reagent-name-oil-ghee = ghee
-reagent-desc-oil-ghee = Thick and translucent.
+reagent-name-oil-ghee = топлёное масло
+reagent-desc-oil-ghee = Густой и полупрозрачный.

@@ -1,2 +1,2 @@
-seeds-killertomato-name = killer tomato
-seeds-killertomato-display-name = killer tomatoes
+seeds-killertomato-name = помидор убийца
+seeds-killertomato-display-name = убица помидоров
