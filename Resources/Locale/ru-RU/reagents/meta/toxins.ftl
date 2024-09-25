@@ -1,86 +1,86 @@
-reagent-name-toxin = toxin
-reagent-desc-toxin = An unsurprisingly toxic chemical. Available at an emagged chem dispenser.
+reagent-name-toxin = токсин
+reagent-desc-toxin = Как ни странно, токсичный химикат. Доступен во взломанном раздатчике химикатов
 
-reagent-name-carpotoxin = carpotoxin
-reagent-desc-carpotoxin = A highly toxic reagent found in space carps. Causes a painful burning sensation.
+reagent-name-carpotoxin = карпотоксин
+reagent-desc-carpotoxin = Крайне токсичное вещество из космических карпов. Вызывает болезненное чувство жжения.
 
-reagent-name-mold = mold
-reagent-desc-mold = A fungal growth, often found in dark, humid places or on expired bread. Will cause you to develop a disease if ingested.
+reagent-name-mold = плесень
+reagent-desc-mold = Грибковое образование, часто встречающееся в тёмных, влажных местах или на просроченном хлебе. При попадании в организм вызывает заболевания.
 
-reagent-name-polytrinic-acid = polytrinic acid
-reagent-desc-polytrinic-acid = An extremely corrosive chemical substance. Severely burns anyone who comes directly into contact with it.
+reagent-name-polytrinic-acid = политриновая кислота
+reagent-desc-polytrinic-acid = Чрезвычайно едкое химическое вещество. Сильно обжигает всех, кто с ней соприкасается.
 
-reagent-name-chloral-hydrate = chloral hydrate
-reagent-desc-chloral-hydrate = A sedative and hypnotic chemical. Commonly used to put other people to sleep, whether they want to or not.
+reagent-name-chloral-hydrate = хлоралгидрат
+reagent-desc-chloral-hydrate = Седативное и успокаивающее вещество. Обычно используется для усыпления людей, независимо оттого, хотят ли они этого.
 
-reagent-name-gastrotoxin = gastrotoxin
-reagent-desc-gastrotoxin = A moderately toxic byproduct of decomposition. Most commonly found in spoiled food.
+reagent-name-gastrotoxin = гастротоксин
+reagent-desc-gastrotoxin = Умеренно токсичный, побочный продукт разложения. Чаще всего встречается в испорченных продуктах.
 
-reagent-name-ferrochromic-acid = ferrochromic acid
-reagent-desc-ferrochromic-acid = A mildy corrosive solution, unable of causing severe danger unless ingested.
+reagent-name-ferrochromic-acid = феррохромовая кислота
+reagent-desc-ferrochromic-acid = Слабый едкий раствор, не способный причинить серьёзный вред здоровью, только если не вдыхать его.
 
-reagent-name-fluorosulfuric-acid = fluorosulfuric acid
-reagent-desc-fluorosulfuric-acid = A highly corrosive chemical, capable of leaving quite a mark on your skin.
+reagent-name-fluorosulfuric-acid = фторсерная кислота
+reagent-desc-fluorosulfuric-acid = Крайне едкое вещество, способно оставить следы на коже.
 
-reagent-name-sulfuric-acid = sulfuric acid
-reagent-desc-sulfuric-acid = A corrosive chemical. Keep away from your face.
+reagent-name-sulfuric-acid = серная кислота
+reagent-desc-sulfuric-acid = Едкий химикат. Держать подальше от лица.
 
-reagent-name-unstable-mutagen = unstable mutagen
-reagent-desc-unstable-mutagen = Causes mutations when injected into living people or plants. High doses may be lethal, especially in humans.
+reagent-name-unstable-mutagen = нестабильный мутаген
+reagent-desc-unstable-mutagen = Вызывает мутации при введении в живых людей или растения. Высокие дозы могут быть смертельными, особенно для людей.
 
-reagent-name-heartbreaker-toxin = heartbreaker toxin
-reagent-desc-heartbreaker-toxin = A hallucinogenic compound derived from mindbreaker toxin. it blocks neurological signals to the respiratory system, causing asphyxiation. Dexalin plus and epinephrine will filter it out, however.
+reagent-name-heartbreaker-toxin = хартбрейкер
+reagent-desc-heartbreaker-toxin = Галлюциногенное соединение, получаемое из майндбрейкера. Блокирует нейронные сигналы в дыхательной системе, вызывая удушье. Однако Дексалин, Дексалин плюс и Эпинефрин способны вывести его из организма.
 
-reagent-name-lexorin = lexorin
-reagent-desc-lexorin = A fast-acting chemical used to asphyxiate people rapidly.
+reagent-name-lexorin = лексорин
+reagent-desc-lexorin = Быстродействующее вещество, используется для быстрого удушья людей.
 
-reagent-name-mindbreaker-toxin = mindbreaker toxin
-reagent-desc-mindbreaker-toxin = A potent, brain damaging poison that can remove psionics.
+reagent-name-mindbreaker-toxin = майндбрейкер
+reagent-desc-mindbreaker-toxin = Мощный яд, поражающий мозг и способный устранить псионики.
 
-reagent-name-histamine = histamine
-reagent-desc-histamine = A chemical caused by allergenics reacting with antibodies. Lethal at large quantities.
+reagent-name-histamine = Гистамин
+reagent-desc-histamine = Химическое вещество, образующееся в результате реакции аллергенов с антителами. Смертельно опасен в больших количествах.
 
-reagent-name-theobromine = theobromine
-reagent-desc-theobromine = A bitter alkaloid of the cacao plant, commonly found in chocolate. Do not feed to animals.
+reagent-name-theobromine = теобромин
+reagent-desc-theobromine = Горький алкалоид, выделяемый из семян какао, который можно встретить в шоколаде. Не давать животным.
 
-reagent-name-amatoxin = amatoxin
-reagent-desc-amatoxin = A deadly toxin found in some mushrooms, primarily fly amanita. Small dosages can be lethal.
+reagent-name-amatoxin = аматоксин
+reagent-desc-amatoxin = Смертельный токсин, найденый в грибах, прежде всего в мухоморах. Смертелен в малых дозах.
 
-reagent-name-vent-crud = vent crud
-reagent-desc-vent-crud = A jet black substance found in poorly maintained ventilation systems. Can cause vent cough.
+reagent-name-vent-crud = вентиляционная грязь
+reagent-desc-vent-crud = Чёрное вещество, которое можно встретить в плохо обслуживаемых вентиляционных системах. Может вызывать вентиляционный кашель.
 
-reagent-name-romerol = romerol
-reagent-desc-romerol = An otherworldly concoction able to bring the undead to life. If untreated, the effects are irreversible and will bring certain doom upon the station. Handle with care.
+reagent-name-romerol = ромерол
+reagent-desc-romerol = Сверхъестественное вещество, способное оживлять мертвецов. Если его не лечить, эффект будет необратимым и приведёт к гибели станции. Обращайтесь с осторожностью.
 
-reagent-name-uncooked-animal-proteins = uncooked animal proteins
-reagent-desc-uncooked-animal-proteins = This is very risky for the stomachs of softer lifeforms to digest.
+reagent-name-uncooked-animal-proteins = непрожаренные животные протеины
+reagent-desc-uncooked-animal-proteins = Крайне опасны для желудков более слабых форм жизни.
 
-reagent-name-allicin = allicin
-reagent-desc-allicin = An organosulfur compound found in alliums like garlic, onions, and related plants.
+reagent-name-allicin = аллицин
+reagent-desc-allicin = Сероорганическое соединение, содержащееся в аллиумах, таких, как чеснок, лук и других
 
-reagent-name-pax = pax
-reagent-desc-pax = A psychiatric chemical which prevents the patient from directly harming anyone.
+reagent-name-pax = пакс
+reagent-desc-pax = Психиатрический препарат, который не позволяет употребившему причинять вред кому-либо.
 
-reagent-name-honk = honk
-reagent-desc-honk = A toxin found in bananium. Causes severe honking and internal bleeding, may also cause the patient to mutate.
+reagent-name-honk = хонк
+reagent-desc-honk = Токсин, содержащийся в бананиуме. Вызывает обильное хонканье и внутреннее кровотечение, также может вызвать мутацию употребившего.
 
-reagent-name-lead = lead
-reagent-desc-lead = A slow-acting but incredibly lethal toxin found in steel, albiet in trace amounts. Tasteless.
+reagent-name-lead = свинец
+reagent-desc-lead = Медленно действующий, но невероятно смертоносный токсин, содержащийся в стали, хотя и в незначительных количествах. Не имеет вкуса.
 
-reagent-name-bungotoxin = bungotoxin
-reagent-desc-bungotoxin = A moderately slow-acting poison found within the pit of the bungo fruit.
+reagent-name-bungotoxin = бунготоксин
+reagent-desc-bungotoxin = Яд умеренно медленного действия, содержащийся в косточках плода бунго.
 
-reagent-name-vestine = vestine
-reagent-desc-vestine = Has an adverse reaction within the body causing major jittering. While not particularly useful on it's own, it can be used to produce a small variety of chemicals.
+reagent-name-vestine = вестин
+reagent-desc-vestine = Оказывает негативное воздействие на организм, вызывая сильную дрожь. Хотя сам по себе он не особенно полезен, его можно использовать для производства ряда других химических веществ.
 
-reagent-name-tazinide = tazinide
-reagent-desc-tazinide = A highly dangerous metallic mixture which can interfere with most movement through an electrifying current.
+reagent-name-tazinide = тазинид
+reagent-desc-tazinide = Крайне опасная металлическая смесь, которая может нарушить возможность передвигаться благодаря электризующему воздействию.
 
-reagent-name-soulbreaker-toxin = soulbreaker toxin
-reagent-desc-soulbreaker-toxin = An anti-psionic about 4 times as powerful as mindbreaker toxin.
+reagent-name-soulbreaker-toxin = соулбрейкер
+reagent-desc-soulbreaker-toxin = Антипсионик, примерно в 4 раза мощнее майндбрейкера.
 
-reagent-name-lotophagoi-oil = lotophagoi oil
-reagent-desc-lotophagoi-oil = A super potent drug that is much better at inducing psionics than normal hallucinogens, but with worse side effects.
+reagent-name-lotophagoi-oil = масло лотофаги
+reagent-desc-lotophagoi-oil = Сверхмощный наркотик, который гораздо сильнее вызывает псионические состояния, чем обычные галлюциногены, но с худшими побочными эффектами.
 
-reagent-name-ectoplasm = ectoplasm
-reagent-desc-ectoplasm = The physical component of semi-corporeal spirits.
+reagent-name-ectoplasm = эктоплазма
+reagent-desc-ectoplasm = Физическая составляющая полутелесных духов.
