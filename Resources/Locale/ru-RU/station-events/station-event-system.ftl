@@ -1,4 +1,4 @@
-## BasicStationEventSchedulerSystem
+## StationEventSystem
 
-station-event-system-run-event = Запуск ивента {$eventName}
-station-event-system-run-random-event-no-valid-events = Валидный ивент не получен
+station-event-system-run-event = Текущее событие { $eventName }
+station-event-system-run-random-event-no-valid-events = Нет доступных событий

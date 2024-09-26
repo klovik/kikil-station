@@ -1,1 +1,1 @@
-gas-passive-gate-examined = Измеритель расхода показывает [color=lightblue]{$flowRate} литр/сек[/color].
+gas-passive-gate-examined = Измеритель расхода показывает [color=lightblue]{ $flowRate } литров/сек[/color].

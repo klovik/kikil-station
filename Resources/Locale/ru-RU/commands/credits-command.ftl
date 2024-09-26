@@ -1,2 +1,2 @@
-cmd-credits-desc = Открыть титры
-cmd-credits-help = Использование: {$command}
+cmd-credits-desc = Opens the credits window
+cmd-credits-help = Usage: { $command }

@@ -1,9 +1,8 @@
-gateway-window-title = Ворота
-gateway-window-open-portal = Открыть Портал
-gateway-window-no-destinations = Направлений не найдено.
-gateway-window-portal-cooldown = Восстановление
-gateway-window-portal-unlock = Открыть
-gateway-window-locked = Заблокирован
-
-gateway-access-denied = Нет доступа!
-gateway-close-portal = Закрыть Портал
+gateway-window-title = Врата
+gateway-window-open-portal = Открыть портал
+gateway-window-portal-cooldown = Перезарядка
+gateway-window-portal-unlock = Следующее открытие
+gateway-window-locked = Закрыто
+gateway-window-no-destinations = Отсутствуют пункты назначения.
+gateway-access-denied = Доступ запрещён!
+gateway-close-portal = Закрыть портал

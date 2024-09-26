@@ -1,34 +1,33 @@
-﻿nukeops-title = Ядерные Оперативники
-nukeops-description =  Ядерные Оперативники скоро прибудут на станцию. Постарайтесь остановить их от взрыва станции ядерной боеголовкой!
-
+nukeops-title = Ядерные оперативники
+nukeops-description = Ядерные оперативники нацелились на станцию. Постарайтесь не дать им взвести и взорвать ядерную бомбу, защищая ядерный диск!
 nukeops-welcome =
-    Вы - ядерный оперативник. Ваша задача - взорвать станцию {$station}, и убедиться, что от неё ничего не останется. Ваше начальство, Синдикат, предоставят вам всё необходимое снаряжение для выполнения миссии.
-    Операция {$name} начинается! Смерть Nanotrasen!
-
-nukeops-opsmajor = [color=crimson]Мажорная победа Синдиката![/color]
-nukeops-opsminor = [color=crimson]Минорная победа Синдиката![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Минорная победа экипажа![/color]
-nukeops-crewmajor = [color=green]Мажорная победа экипажа![/color]
-
-nukeops-cond-nukeexplodedoncorrectstation = Ядерные оперативники успешно уничтожили станцию.
-nukeops-cond-nukeexplodedonnukieoutpost = Шаттл ядерных оперативников был уничтожен взрывной волной.
-nukeops-cond-nukeexplodedonincorrectlocation = Ядерная боеголовка детонировала вне станции.
-nukeops-cond-nukeactiveinstation = Ядерная боеголовка была оставленна заряженной на станции.
-nukeops-cond-nukeactiveatcentcom = Ядерная боеголовка была доставлена на центком!
-nukeops-cond-nukediskoncentcom = Экипаж сбежал с диском ядерной авторизации.
-nukeops-cond-nukedisknotoncentcom = Экипаж где-то потерял диск ядерной авторизации.
-nukeops-cond-nukiesabandoned = Ядерные оперативники были заброшены.
+    Вы - ядерный оперативник. Ваша задача - взорвать { $station } и убедиться, что от неё осталась лишь груда обломков. Ваше руководство, Синдикат, снабдило вас всем необходимым для выполнения этой задачи.
+    Операция "{ $name }" началась! Смерть Nanotrasen!
+nukeops-opsmajor = [color=crimson]Крупная победа Синдиката![/color]
+nukeops-opsminor = [color=crimson]Малая победа Синдиката![/color]
+nukeops-neutral = [color=yellow]Ничейный исход![/color]
+nukeops-crewminor = [color=green]Малая победа экипажа![/color]
+nukeops-crewmajor = [color=green]Разгромная победа экипажа![/color]
+nukeops-cond-nukeexplodedoncorrectstation = Ядерным оперативникам удалось взорвать станцию.
+nukeops-cond-nukeexplodedonnukieoutpost = Аванпост ядерных оперативников был уничтожен ядерным взрывом.
+nukeops-cond-nukeexplodedonincorrectlocation = Ядерная бомба взорвалась вне станции.
+nukeops-cond-nukeactiveinstation = Ядерная бомба была оставлена взведённой на станции.
+nukeops-cond-nukeactiveatcentcom = Ядерная бомба была доставлена Центральному командованию!
+nukeops-cond-nukediskoncentcom = Экипаж улетел с диском ядерной аутентификации.
+nukeops-cond-nukedisknotoncentcom = Экипаж оставил диск ядерной аутентификации на станции.
+nukeops-cond-nukiesabandoned = Ядерные оперативники были брошены.
 nukeops-cond-allnukiesdead = Все ядерные оперативники погибли.
-nukeops-cond-somenukiesalive = Некоторые ядерные оперативники погибли.
+nukeops-cond-somenukiesalive = Несколько ядерных оперативников погибли.
 nukeops-cond-allnukiesalive = Все ядерные оперативники выжили.
-
-nukeops-list-start = Задачи:
-nukeops-list-name = - [color=White]{$name}[/color]
-nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Недостаточно игроков готовы для начала раунда! {$readyPlayersCount} игроков готовы из {$minimumPlayers} необходимых. Невозможно начать игру.
-nukeops-no-one-ready = Нет готовых игроков. Невозможно запустить раунд.
-
+nukeops-list-start = Ядерными оперативниками были:
+nukeops-list-name = - [color=White]{ $name }[/color]
+nukeops-list-name-user = - [color=White]{ $name }[/color] ([color=gray]{ $user }[/color])
+nukeops-not-enough-ready-players = Недостаточно игроков готовы к игре! { $readyPlayersCount } игроков из необходимых { $minimumPlayers } готовы. Нельзя запустить пресет Ядерные оперативники.
+nukeops-no-one-ready = Нет готовых игроков! Нельзя запустить пресет Ядерные оперативники.
 nukeops-role-commander = Командир
 nukeops-role-agent = Агент
-nukeops-role-operator = Оперативник
+nukeops-role-operator = Оператор
+
+
+
+nukeops-cond-nukeexplodedoncentcomlocation = Ядерным оперативникам удалось взорвать центральное командование.

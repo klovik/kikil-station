@@ -1,32 +1,29 @@
-﻿zombie-title = Зомби
-zombie-description = На станцию обрушилась нежить! Работайте с командой, чтобы пережить вспышку и обезопасить станцию.
-
-zombie-not-enough-ready-players = Недостаточно готовых игроков! {$readyPlayersCount} игроков было готово из {$minimumPlayers} необходимых. Невозможно начать раунд.
-zombie-no-one-ready = Никто не был готов! Невозможно начать раунд!
-
-zombie-patientzero-role-greeting = Вы - нулевой заражённый. Собирайте припасы и готовьтесь к возможному превращению. Ваша цель - захватить станцию, заразив при этом как можно больше людей.
-zombie-healing = Вы чувствуете возбуждение в своей плоти
-zombie-infection-warning = Вы чувствуете, как зомби-вирус захватывает власть
-zombie-infection-underway = Ваша кровь начинает густеть
-
+zombie-title = Зомби
+zombie-description = На станции появились ожившие мертвецы! Работайте сообща с другими членами экипажа, чтобы пережить эпидемию и защитить станцию.
+zombieteors-title = Зомбитеоры
+zombieteors-description = На станции во время катаклизмического метеоритного дождя появились зомби! Работайте вместе с членами экипажа и сделайте всё возможное, чтобы выжить!
+zombie-not-enough-ready-players = Недостаточно игроков готовы к игре! { $readyPlayersCount } игроков из необходимых { $minimumPlayers } готовы. Нельзя запустить пресет Зомби.
+zombie-no-one-ready = Нет готовых игроков! Нельзя запустить пресет Зомби.
+zombie-patientzero-role-greeting = Вы — нулевой пациент. Снарядитесь и подготовьтесь к своему превращению. Ваша цель - захватить станцию, заразив при этом как можно больше членов экипажа.
+zombie-healing = Вы ощущаете шевеление в своей плоти
+zombie-infection-warning = Вы чувствуете, как зомби-вирус берёт верх
+zombie-infection-underway = Ваша кровь начинает сгущаться
 zombie-alone = Вы чувствуете себя совершенно одиноким.
-
-zombie-shuttle-call = Мы обнаружили, что немертвые захватили станцию. Отправляем аварийный шаттл за оставшимся персоналом.
-
-zombie-round-end-initial-count = {$initialCount ->
-    [one] Был один нулевой заражённый:
-    *[other] Было {$initialCount} нулевых заражённых:
-}
-zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) был нулевым заражённым.
-
+zombie-shuttle-call = Мы зафиксировали, что зомби захватили станцию. Аварийный шаттл был отправлен для эвакуации оставшегося персонала.
+zombie-round-end-initial-count =
+    { $initialCount ->
+        [one] Единственным нулевым пациентом был:
+       *[other] Нулевых пациентов было { $initialCount }, ими были:
+    }
+zombie-round-end-user-was-initial = - [color=plum]{ $name }[/color] ([color=gray]{ $username }[/color]) был одним из нулевых пациентов.
 zombie-round-end-amount-none = [color=green]Все зомби были уничтожены![/color]
 zombie-round-end-amount-low = [color=green]Почти все зомби были уничтожены.[/color]
-zombie-round-end-amount-medium = [color=yellow]{$percent}% экипажа стали зомби.[/color]
-zombie-round-end-amount-high = [color=crimson]{$percent}% экипажа стали зомби.[/color]
-zombie-round-end-amount-all = [color=darkred]Весь экипаж стал зомби![/color]
-
-zombie-round-end-survivor-count = {$count ->
-    [one] Остался только один выживший:
-    *[other] Было только {$count} выживших:
-}
-zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) пережил зомби апокалипсис.
+zombie-round-end-amount-medium = [color=yellow]{ $percent }% экипажа были обращены в зомби.[/color]
+zombie-round-end-amount-high = [color=crimson]{ $percent }% экипажа были обращены в зомби.[/color]
+zombie-round-end-amount-all = [color=darkred]Весь экипаж обратился в зомби![/color]
+zombie-round-end-survivor-count =
+    { $count ->
+        [one] Единственным выжившим стал:
+       *[other] Осталось всего { $count } выживших, это:
+    }
+zombie-round-end-user-was-survivor = - [color=White]{ $name }[/color] ([color=gray]{ $username }[/color]) пережил заражение.

@@ -1,6 +1,8 @@
-﻿# Rules
+# Rules
 
-ui-rules-header = Правила kikil's station
-ui-rules-header-rp = Правила kikil's station roleplay
-ui-rules-accept = Я всё прочитал и согласен соблюдать правила.
-ui-rules-wait = Кнопка принять будет доступна через {$time} секунд.
+ui-rules-header = Правила сервера
+ui-rules-header-rp = Правила сервера
+ui-rules-accept = Я ознакомился и согласен следовать правилам
+ui-rules-wait = Кнопка принятия будет разблокирована через { $time } секунд.
+ui-rules-button-home = В начало
+ui-rules-button-back = Назад

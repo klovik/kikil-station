@@ -1,20 +1,20 @@
 # Armor examines
-armor-examinable-verb-text = Осмотреть
+armor-examinable-verb-text = Броня
 armor-examinable-verb-message = Изучить показатели брони.
-armor-examine = Она обеспечивает следующую защиту:
-armor-coefficient-value = - [color=yellow]{$type}[/color] урон понижен на [color=lightblue]{$value}%[/color].
-armor-reduction-value = - [color=yellow]{$type}[/color] урон понижен на [color=lightblue]{$value}[/color].
-armor-damage-type-blunt = Тупой
+armor-examine = Обеспечивает следующую защиту:
+armor-coefficient-value = - [color=yellow]{ $type }[/color] урон снижается на [color=lightblue]{ $value }%[/color].
+armor-reduction-value = - [color=yellow]{ $type }[/color] урон снижается на [color=lightblue]{ $value }[/color].
+armor-damage-type-blunt = Ударный
 armor-damage-type-slash = Режущий
-armor-damage-type-piercing = Прорубающий
-armor-damage-type-heat = Тепловой
+armor-damage-type-piercing = Колющий
+armor-damage-type-heat = Высокотемпературный
 armor-damage-type-radiation = Радиационный
-armor-damage-type-caustic = Каустический
-armor-damage-type-bloodloss = Кровопотерный
-armor-damage-type-asphyxiation = Удушающий
+armor-damage-type-caustic = Кислотный
+armor-damage-type-stun = Оглушающий
+armor-damage-type-bloodloss = От кровопотери
+armor-damage-type-asphyxiation = От удушения
 armor-damage-type-cellular = Клеточный
-armor-damage-type-cold = Холодный
+armor-damage-type-cold = Низкотемпературный
 armor-damage-type-poison = Ядовитый
 armor-damage-type-shock = Электрический
 armor-damage-type-structural = Структурный
-armor-examine-stamina = Уменьшает вашу выносливость на [color=cyan]{$num}%[/color].

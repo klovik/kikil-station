@@ -1,1 +1,1 @@
-drag-drop-system-out-of-range-text = Слишком далеко!
+drag-drop-system-out-of-range-text = Вы не можете туда достать!

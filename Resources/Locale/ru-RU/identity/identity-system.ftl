@@ -1,9 +1,7 @@
-﻿identity-unknown-name = ???
-
-identity-age-young = молодой
-identity-age-middle-aged = средних лет
-identity-age-old = старый
-
+identity-unknown-name = ???
+identity-age-young = молодого возраста
+identity-age-middle-aged = среднего возраста
+identity-age-old = пожилого возраста
 identity-gender-feminine = женщина
 identity-gender-masculine = мужчина
-identity-gender-person = человек
+identity-gender-person = персона

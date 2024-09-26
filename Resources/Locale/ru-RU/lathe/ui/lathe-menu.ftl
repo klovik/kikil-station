@@ -1,23 +1,28 @@
-lathe-menu-title = Лат Меню
+lathe-menu-title = Меню станка
 lathe-menu-queue = Очередь
 lathe-menu-server-list = Список серверов
-lathe-menu-sync = Обновить
-lathe-menu-search-designs = Поиск
-lathe-menu-category-all = Все
-lathe-menu-search-filter = Фильтр:
+lathe-menu-sync = Синхр.
+lathe-menu-search-designs = Поиск проектов
+lathe-menu-category-all = Всё
+lathe-menu-search-filter = Фильтр
 lathe-menu-amount = Кол-во:
-lathe-menu-material-display = {$material} ({$amount})
-lathe-menu-tooltip-display = {$amount} {$material}
-lathe-menu-description-display = [italic]{$description}[/italic]
-lathe-menu-material-amount = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit}
-    *[other] {NATURALFIXED($amount, 2)}
-}
-lathe-menu-material-amount-missing = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit} {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} отсутствует[/color])
-    *[other] {NATURALFIXED($amount, 2)} {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} отсутствует[/color])
-}
-lathe-menu-no-materials-message = Материалы не загружены.
-lathe-menu-fabricating-message = Фабрикация...
+lathe-menu-reagent-slot-examine = Сбоку имеется отверстие для мензурки.
+lathe-reagent-dispense-no-container = Жидкость выливается из { $name } на пол!
+lathe-menu-result-reagent-display = { $reagent } ({ $amount }ед.)
+lathe-menu-material-display = { $material } { $amount }
+lathe-menu-tooltip-display = { $amount } { $material }
+lathe-menu-description-display = [italic]{ $description }[/italic]
+lathe-menu-material-amount =
+    { $amount ->
+        [1] { NATURALFIXED($amount, 2) } ({ $unit })
+       *[other] { NATURALFIXED($amount, 2) } ({ $unit })
+    }
+lathe-menu-material-amount-missing =
+    { $amount ->
+        [1] { NATURALFIXED($amount, 2) } { $unit } { $material } ([color=red]{ NATURALFIXED($missingAmount, 2) } { $unit } не хватает[/color])
+       *[other] { NATURALFIXED($amount, 2) } { $unit } { $material } ([color=red]{ NATURALFIXED($missingAmount, 2) } { $unit } не хватает[/color])
+    }
+lathe-menu-no-materials-message = Материалы не загружены
+lathe-menu-fabricating-message = Производится...
 lathe-menu-materials-title = Материалы
-lathe-menu-queue-title = Очередь Сборки
+lathe-menu-queue-title = Очередь производства

@@ -1,23 +1,18 @@
-﻿admin-logs-title = Логи
-admin-logs-count = Отображение {$showing}/{$total} из {$round}
-admin-logs-pop-out = Развернуть
-
+admin-logs-title = Панель админ логов
+admin-logs-count = Показано { $showing }/{ $total }
+admin-logs-pop-out = В окне
 # Round
-admin-logs-round = Раунд{" "}
-admin-logs-reset = Ресет
-admin-logs-reset-with-id = Ресет Раунда (#{$id})
-
+admin-logs-round = Раунд{ " " }
+admin-logs-reset = Сбросить
+admin-logs-reset-with-id = Сбросить раунд (#{ $id })
 # Types
-admin-logs-search-types-placeholder = Поиск Типов (ИЛИ)
+admin-logs-search-types-placeholder = Поиск типа... (ИЛИ)
 admin-logs-select-all = Все
-admin-logs-select-none = Ничего
-
+admin-logs-select-none = Никакие
 # Players
-admin-logs-search-players-placeholder = Поиск Игроков (OR)
-admin-logs-select-none = Ничего
-admin-logs-include-non-player = Включать не игроков
-
+admin-logs-search-players-placeholder = Поиск игрока... (ИЛИ)
+admin-logs-include-non-player = Включая не-игроков
 # Logs
-admin-logs-search-logs-placeholder = Поиск по Логам
+admin-logs-search-logs-placeholder = Поиск по логам...
 admin-logs-refresh = Обновить
-admin-logs-next = След.
+admin-logs-next = Далее

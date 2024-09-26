@@ -1,2 +1,2 @@
-control-mob-command-description = Помещает сознание игрока в выбранного моба
-control-mob-command-help-text = Использование: controlmob <Uid моба>.
+control-mob-command-description = Переносит разум пользователя в указанную сущность.
+control-mob-command-help-text = Использование: controlmob <mobUid>.

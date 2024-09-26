@@ -1,14 +1,18 @@
 delete-verb-get-data-text = Удалить
-edit-solutions-verb-get-data-text = Растворы
+edit-solutions-verb-get-data-text = Редактировать растворы
 explode-verb-get-data-text = Взорвать
-ahelp-verb-get-data-text = Сообщение
-admin-verbs-admin-logs-entity = Логи
-admin-verbs-teleport-to = ТП к
-admin-verbs-teleport-here = ТП сюда
-admin-verbs-freeze = Заморозка
-admin-verbs-unfreeze = Разморозка
+ahelp-verb-get-data-text = Написать
+admin-verbs-admin-logs-entity = Логи сущности
+admin-verbs-teleport-to = Телепортироваться к
+admin-verbs-teleport-here = Телепортировать сюда
+admin-verbs-freeze = Заморозить
+admin-verbs-freeze-and-mute = Заморозить и заглушить
+admin-verbs-unfreeze = Разморозить
 admin-verbs-erase = Стереть
-admin-verbs-erase-description = Удаляет игрока с раунда и манифеста, удаляет все сообщения в чате.
-    Его предметы выпадают на землю.
+admin-verbs-erase-description =
+    Удаляет игрока из раунда и манифеста членов экипажа, а также удаляет все его сообщения в чате.
+    Их вещи упадут на землю.
+    Игроки увидят всплывающее окно, указывающее им играть как будто исчезнувшего никогда не существовало.
 toolshed-verb-mark = Отметить
-toolshed-verb-mark-description = Помещает энтити в переменную $marked, список энтити, заменяя предыдущее значение.
+toolshed-verb-mark-description = Помещает данную сущность в переменную $marked, заменяя её предыдущее значение.
+export-entity-verb-get-data-text = Экспорт спрайта

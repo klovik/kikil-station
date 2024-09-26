@@ -1,5 +1,5 @@
 # APC
-construction-examine-condition-apc-open = Сначала, откройте ЛКП.
-construction-examine-condition-apc-close = Сначала, закройте ЛКП..
-construction-step-condition-apc-open = Панель ЛКП должна быть раскручена.
-construction-step-condition-apc-close = Панель ЛКП должна закручена винтами.
+construction-examine-condition-apc-open = Сперва развинтите ЛКП.
+construction-examine-condition-apc-close = Сперва завинтите ЛКП.
+construction-step-condition-apc-open = Панель управления ЛКП должна быть развинчена.
+construction-step-condition-apc-close = Панель управления ЛКП должна быть завинчена.

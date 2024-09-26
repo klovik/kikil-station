@@ -1,82 +1,42 @@
-﻿command-description-visualize =
-    Получает входной список энтити и помещает их в окно пользовательского интерфейса для удобства просмотра.
-command-description-runverbas =
-    Выполнить глагол над входными энтити с указанным пользователем.
-command-description-acmd-perms =
-    Возвращает права администратора для данной команды, если таковые имеются.
-command-description-acmd-caninvoke =
-    Проверяет, может ли данный игрок вызвать заданную команду.
-command-description-jobs-jobs =
-    Возвращает все профессии на станции.
-command-description-jobs-job =
-    Возвращает данную профессию на станции.
-command-description-jobs-isinfinite =
-    Возвращает true если данная профессия с бесконечными слотами, иначе false.
-command-description-jobs-adjust =
-    Меняет кол-во слотов для определённой профессии.
-command-description-jobs-set =
-    Устанавливает кол-во слотов для определённой профессии.
-command-description-jobs-amount =
-    Возвращает количество слотов для выбранной профессии.
-command-description-laws-list =
-    Возвращает список всех связанных законом субъектов.
-command-description-laws-get =
-    Возвращает законы выбранного энтити.
-command-description-stations-list =
-    Возвращает список всех станций.
-command-description-stations-get =
-    Получает активную станцию, если и только если она существует только один.
-command-description-stations-getowningstation =
-    Получает станцию, которая «владеет» (в пределах) данным энтити.
-command-description-stations-grids =
-    Возвращает все сетки относящиеся к данной станции.
-command-description-stations-config =
-    Возвращает конфиг относящийся к данной станции, если он существует.
-command-description-stations-addgrid =
-    Добавляет сетку к данной станции.
-command-description-stations-rmgrid =
-    Удаляет сетку с данной станции.
-command-description-stations-rename =
-    Переименовывает данную станцию.
-command-description-stations-largestgrid =
-    Возвращает самую большую сетку, которую имеет данная станция, если она есть.
-command-description-stations-rerollBounties =
-    Очищает все текущие заказы для данной станции и выдаёт новые.
-command-description-stationevent-lsprob =
-    Выводит список вероятностей всех ивентов на станции из всего пула.
-command-description-stationevent-lsprobtime =
-    Выводит список вероятностей разных инветов на станции, происходящих из-за длительности раунда.
-command-description-stationevent-prob =
-    Возвращает вероятность одного ивента станции из всего пула.
-command-description-admins-active =
-    Возвращает список активных админов.
-command-description-admins-all =
-    Возвращает список ВСЕХ админов, включая деадминов.
-command-description-marked =
-    Возвращает значение переменной $marked в виде List<EntityUid>.
-command-description-rejuvenate =
-    Омолаживает выбранных энтити, восстанавливая им всё здоровье, очищая эффекты, и тд.
-command-description-tag-list =
-    Выводит список тегов на выбранном энтити.
-command-description-tag-add =
-    Добавляет тег выбранным энтити.
-command-description-tag-rm =
-    Удаляет тег с выбранных энтити
-command-description-tag-addmany =
-    Добавляет несколько тегов выбранным энтити.
-command-description-tag-rmmany =
-    Удаляет несколько тегов выбранным энтити.
-command-description-polymorph =
-    Polymorphs the input entity with the given prototype.
-command-description-unpolymorph =
-    Reverts a polymorph.
-command-description-solution-get =
-    Grabs the given solution off the given entity.
-command-description-solution-adjreagent =
-    Adjusts the given reagent on the given solution.
-command-description-mind-get =
-    Grabs the mind from the entity, if any.
-command-description-mind-control =
-    Даёт контроль над энтити выбранному игроку.
-command-description-addaccesslog =
-    Добавляет an access log to this entity. Do note that this bypasses the log's default limit and pause check.
+command-description-visualize = Takes the input list of entities and puts them into a UI window for easy browsing.
+command-description-runverbas = Runs a verb over the input entities with the given user.
+command-description-acmd-perms = Returns the admin permissions of the given command, if any.
+command-description-acmd-caninvoke = Check if the given player can invoke the given command.
+command-description-jobs-jobs = Returns all jobs on a station.
+command-description-jobs-job = Returns a given job on a station.
+command-description-jobs-isinfinite = Returns true if the input job is infinite, otherwise false.
+command-description-jobs-adjust = Adjusts the number of slots for the given job.
+command-description-jobs-set = Sets the number of slots for the given job.
+command-description-jobs-amount = Returns the number of slots for the given job.
+command-description-laws-list = Returns a list of all law bound entities.
+command-description-laws-get = Returns all of the laws for a given entity.
+command-description-stations-list = Returns a list of all stations.
+command-description-stations-get = Gets the active station, if and only if there is only one.
+command-description-stations-getowningstation = Gets the station that a given entity is "owned by" (within)
+command-description-stations-grids = Returns all grids associated with the input station.
+command-description-stations-config = Returns the config associated with the input station, if any.
+command-description-stations-addgrid = Adds a grid to the given station.
+command-description-stations-rmgrid = Removes a grid from the given station.
+command-description-stations-rename = Renames the given station.
+command-description-stations-largestgrid = Returns the largest grid the given station has, if any.
+command-description-stations-rerollBounties = Clears all the current bounties for the station and gets a new selection.
+command-description-stationevent-lsprob = Lists the probability of different station events occuring out of the entire pool.
+command-description-stationevent-lsprobtime = Lists the probability of different station events occuring based on the specified length of a round.
+command-description-stationevent-prob = Returns the probability of a single station event occuring out of the entire pool.
+command-description-admins-active = Returns a list of active admins.
+command-description-admins-all = Returns a list of ALL admins, including deadmined ones.
+command-description-marked = Returns the value of $marked as a List<EntityUid>.
+command-description-rejuvenate = Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.
+command-description-tag-list = Lists tags on the given entities.
+command-description-tag-add = Adds a tag to the given entities.
+command-description-tag-rm = Removes a tag from the given entities.
+command-description-tag-addmany = Adds a list of tags to the given entities.
+command-description-tag-rmmany = Removes a list of tags from the given entities.
+command-description-polymorph = Polymorphs the input entity with the given prototype.
+command-description-unpolymorph = Reverts a polymorph.
+command-description-solution-get = Returns a solution stored in an entity's solution container.
+command-description-solution-adjreagent = Adjusts the given reagent on the given solution.
+command-description-mind-get = Grabs the mind from the entity, if any.
+command-description-mind-control = Assumes control of an entity with the given player.
+command-description-addaccesslog = Adds an access log to this entity. Do note that this bypasses the log's default limit and pause check.
+command-description-stationevent-simulate = Simulates N number of rounds in which events will occur and prints the occurrences of every event after.

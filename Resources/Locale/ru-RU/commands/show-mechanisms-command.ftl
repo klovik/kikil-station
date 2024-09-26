@@ -1,2 +1,2 @@
-cmd-showmechanisms-desc = Делает механизмы видимыми, даже когда их не должно быть видно.
-cmd-showmechanisms-help = Использоваие: {$command}
+cmd-showmechanisms-desc = Makes mechanisms visible, even when they shouldn't be.
+cmd-showmechanisms-help = Usage: { $command }

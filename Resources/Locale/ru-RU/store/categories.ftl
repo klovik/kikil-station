@@ -1,18 +1,27 @@
-﻿# Uplink
-store-category-debug = debug category
-store-category-debug2 = debug category 2
-store-category-weapons = Weapons
-store-category-ammo = Ammo
-store-category-explosives = Explosives
-store-category-misc = Misc
-store-category-bundles = Bundles
-store-category-tools = Tools
-store-category-utility = Utility
-store-category-implants = Implants
-store-category-job = Job
-store-category-armor = Armor
-store-category-pointless = Pointless
-store-category-deception = Deception
-
+# Uplink
+store-category-debug = дебаг категория 1
+store-category-debug2 = дебаг категория 2
+store-category-weapons = Вооружение
+store-category-ammo = Боеприпасы
+store-category-explosives = Взрывчатка
+store-category-chemicals = Химикаты
+store-category-deception = Обман
+store-category-disruption = Саботаж
+store-category-allies = Союзники
+store-category-wearables = Экипировка
+store-category-implants = Импланты
+store-category-job = Работа
+store-category-pointless = Безделушки
+store-discounted-items = Скидки
 # Revenant
-store-category-abilities = Abilities
+store-category-abilities = Способности
+# Wizard
+store-caregory-spellbook-offensive = Атакующие заклинания
+store-caregory-spellbook-defensive = Защитные заклинания
+store-caregory-spellbook-utility = Вспомогательные заклинания
+store-caregory-spellbook-equipment = Волшебное снаряжение
+store-caregory-spellbook-events = Заклинания событий
+# Changeling
+store-ling-category-combat = Бой
+store-ling-category-sting = Ужаливания
+store-ling-category-utility = Утилиты

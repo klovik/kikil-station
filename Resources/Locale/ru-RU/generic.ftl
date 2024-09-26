@@ -3,14 +3,11 @@
 generic-not-available-shorthand = Н/Д
 generic-article-a = это
 generic-article-an = это
-
-generic-unknown = неизвестный
-generic-unknown-title = Неизвестный
+generic-unknown = неизвестно
+generic-unknown-title = Неизвестно
 generic-error = ошибка
-generic-invalid = невалидный
-
+generic-invalid = недействительно
 generic-hours = часов
-
-generic-playtime-title = Наигранное время
-
+generic-minutes = минут
+generic-playtime-title = Игровое время
 generic-confirm = Подтвердить

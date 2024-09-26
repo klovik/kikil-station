@@ -1,5 +1,4 @@
-action-name-internals-toggle = Переключить внутренние устройства
-action-description-internals-toggle = Начать дышать из оборудованного газового баллона. Также требуется экипированная дыхательная маска.
-
-internals-no-breath-tool = На вас нет дыхательной маски/шлема.
-internals-no-tank = На вас нет газового баллона.
+action-name-internals-toggle = Переключить подачу воздуха
+action-description-internals-toggle = Дышите из экипированного газового баллона. Требуется надетая дыхательная маска.
+internals-no-breath-tool = Не экипирована дыхательная маска
+internals-no-tank = Не экипирован баллон для дыхания

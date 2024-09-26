@@ -1,1 +1,1 @@
-human-inventory-window-title = Ваш Инвентарь
+human-inventory-window-title = Ваш инвентарь

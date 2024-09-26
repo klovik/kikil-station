@@ -1,9 +1,9 @@
-lock-comp-on-examined-is-locked = {CAPITALIZE($entityName)} кажется заблокирован.
-lock-comp-on-examined-is-unlocked = {CAPITALIZE($entityName)} кажется разблокирован.
-lock-comp-do-lock-success = Вы блокируете {$entityName}.
-lock-comp-do-unlock-success = Вы разблокируете {$entityName}.
-lock-comp-has-user-access-fail = Нет доступа
-lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} заблокирован.
+lock-comp-on-examined-is-locked = Похоже, { $entityName } заблокирован.
+lock-comp-on-examined-is-unlocked = Похоже, { $entityName } разблокирован.
+lock-comp-do-lock-success = Вы заблокировали { $entityName }.
+lock-comp-do-unlock-success = Вы разблокировали { $entityName }.
+lock-comp-has-user-access-fail = Доступ запрещён
+lock-comp-generic-fail = { CAPITALIZE($target) } закрыт.
 
 ## ToggleLockVerb
 

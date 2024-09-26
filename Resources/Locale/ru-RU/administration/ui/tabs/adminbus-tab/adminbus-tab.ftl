@@ -1,4 +1,4 @@
-delete-singularities = Удалить Сингу
-open-station-events = События
+delete-singularities = Удалить сингулярности
+open-station-events = Случайные события
 load-game-prototype = Загрузить прототип
-load-blueprints = Загрузить блюпринт
+load-blueprints = Загрузить чертежи

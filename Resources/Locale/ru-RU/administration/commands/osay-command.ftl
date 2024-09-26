@@ -1,9 +1,7 @@
-osay-command-description = Заставляет энтити сказать фразу
-osay-command-help-text = Использование: {$command} <uid> <тип> <сообщение>
-
+osay-command-description = Заставляет другую сущность попытаться отправить сообщение
+osay-command-help-text = Использование: { $command } <uid> <type> <message>
 osay-command-arg-uid = source uid
 osay-command-arg-type = type
 osay-command-arg-message = message
-
-osay-command-error-args = Неверное количество аргументов.
-osay-command-error-euid = {$arg} не является валидным uid энтити.
+osay-command-error-args = Недопустимое число аргументов.
+osay-command-error-euid = { $arg } не является допустимым entity uid.

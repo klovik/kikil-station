@@ -1,8 +1,10 @@
-department-Cargo = Снабжение
-department-Civilian = Сервис
+department-Cargo = Отдел снабжения
+department-Civilian = Сервисный отдел
 department-Command = Командование
-department-Engineering = Инженерный
-department-Medical = Медицинский
-department-Security = Безопасность
-department-Science = Наука
-department-Specific = Специфические для станций
+department-CentralCommand = Центральное командование
+department-Engineering = Инженерный отдел
+department-Medical = Медицинский отдел
+department-Security = Служба безопасности
+department-Science = Научный отдел
+department-Silicon = Синтетики
+department-Specific = На определённых станциях

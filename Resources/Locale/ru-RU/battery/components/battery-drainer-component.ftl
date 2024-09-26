@@ -1,3 +1,3 @@
-battery-drainer-full = Ваш аккумулятор уже полон
-battery-drainer-empty = {CAPITALIZE($battery)} не имеет достаточно энергии для разрядки
-battery-drainer-success = Вы извлекли энергию из {$battery}!
+battery-drainer-full = Ваша батерея полностью заряжена
+battery-drainer-empty = В { CAPITALIZE($battery) } не хватает энергии, которую можно вытянуть
+battery-drainer-success = Вы вытягиваете энергию из { $battery }!

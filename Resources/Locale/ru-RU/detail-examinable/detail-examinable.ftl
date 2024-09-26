@@ -1,2 +1,2 @@
-﻿detail-examinable-verb-text = Осмотреть
-detail-examinable-verb-disabled = Осмотреть объект более подробно.
+detail-examinable-verb-text = Подробности
+detail-examinable-verb-disabled = Детальнее осмотрите объект.

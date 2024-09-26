@@ -1,1 +1,1 @@
-action-name-mapping-erase = Стереть Энтити
+action-name-mapping-erase = Стереть сущность

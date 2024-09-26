@@ -1,1 +1,1 @@
-﻿phlogiston-plasma-created = Смесь пузырится, и из неё вылезает плазма!
+phlogiston-plasma-created = Смесь пузырится, и из неё поднимается плазма!

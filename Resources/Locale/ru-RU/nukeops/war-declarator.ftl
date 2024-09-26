@@ -1,15 +1,20 @@
-war-declarator-not-working = Устройство издает звуковые сигналы, но ничего не происходит...
+war-declarator-not-working = Устройство пищит, но ничего не происходит...
 war-declarator-ui-header = Объявление войны
+war-declarator-ui-try-war-button = Попробовать объявить войну
 war-declarator-ui-war-button = ОБЪЯВИТЬ ВОЙНУ!
-war-declarator-ui-try-war-button = Попытаться объявить войну
-war-declarator-conditions-small-crew = Не хватает ядерных оперативников, чтобы объявить войну!
-war-declarator-conditions-left-outpost = Шаттл покинул аванпост синдиката.
-war-declarator-conditions-time-out = Время объявления войны прошло
+war-declarator-conditions-small-crew = Недостаточно ядерных оперативников, чтобы объявить войну!
+war-declarator-conditions-left-outpost = Шаттл покинул аванпост Синдиката
+war-declarator-conditions-time-out = Время на объявление войны прошло
 war-declarator-conditions-ready = Шаттл может покинуть аванпост!
 war-declarator-conditions-unknown = Неизвестно
-war-declarator-boost-possible = Объявлять войну возможно
-war-declarator-boost-impossible = Объявлять войну невозможно
-war-declarator-boost-declared = Объявлена война! Шаттл может быть отключен на...
-war-declarator-boost-timer = Времени осталось: {$time} минут.
-war-declarator-default-message = Крайняя группа Синдиката объявила о своем намерении полностью уничтожить станцию с помощью ядерного устройства и осмелилась попытаться остановить экипаж.
-war-declarator-message-placeholder = Напишите здесь объявление о войне...
+war-declarator-boost-possible = Возможно объявить войну
+war-declarator-boost-impossible = Невозможно объявить войну
+war-declarator-boost-declared = Война объявлена! Шаттл может быть отключён на...
+war-declarator-boost-timer =
+    Оставшееся время: { $time } { $time ->
+        [one] минута
+        [few] минуты
+       *[other] минут
+    }.
+war-declarator-default-message = Пограничный отряд Синдиката объявляет о своём намерении уничтожить станцию при помощи ядерного устройства и призывает экипаж предпринять ничтожную попытку остановить их.
+war-declarator-message-placeholder = Введите текст объявления...

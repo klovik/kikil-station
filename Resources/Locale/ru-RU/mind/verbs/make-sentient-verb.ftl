@@ -1,1 +1,1 @@
-make-sentient-verb-get-data-text = Сделать Разумным
+make-sentient-verb-get-data-text = Сделать разумным

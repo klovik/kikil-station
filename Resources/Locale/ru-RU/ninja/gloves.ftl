@@ -1,6 +1,6 @@
-ninja-gloves-on = Перчатки наливаются силой!
+ninja-gloves-on = Перчатки наполняются энергией!
 ninja-gloves-off = Перчатки отключаются...
-ninja-gloves-not-wearing-suit = На тебе нет костюма ниндзи.
+ninja-gloves-not-wearing-suit = На вас нет костюма ниндзя
 ninja-gloves-examine-on = Все способности включены.
-ninja-gloves-examine-off = Скучные старые перчатки...
-ninja-doorjack-success = Перчатки что-то замыкают в {$target}.
+ninja-gloves-examine-off = Старые скучные перчатки...
+ninja-doorjack-success = Перчатки замыкают что-то в { $target }.

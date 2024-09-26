@@ -1,2 +1,2 @@
-medibot-start-inject = Не двигайтесь, пожалуйста.
-medibot-finish-inject = Всё готово.
+medibot-start-inject = Пожалуйста, не двигайтесь.
+medibot-finish-inject = Готово.

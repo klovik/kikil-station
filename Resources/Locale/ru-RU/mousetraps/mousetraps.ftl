@@ -1,2 +1,2 @@
-mousetrap-on-activate = Мышеловка активирована.
-mousetrap-on-deactivate = Мышеловка деактивирована.
+mousetrap-on-activate = Мышеловка была активирована.
+mousetrap-on-deactivate = Мышеловка была деактивирована.
