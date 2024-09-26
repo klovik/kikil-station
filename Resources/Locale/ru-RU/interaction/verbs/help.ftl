@@ -1,0 +1,40 @@
+interaction-HelpUp-name = Help up
+interaction-HelpUp-description = Help the person get up.
+interaction-HelpUp-delayed-self-popup = You try to help {THE($target)} get up...
+interaction-HelpUp-delayed-target-popup = {$user} пытается вам помочь.
+interaction-HelpUp-delayed-others-popup = {$user} пытается помочь встать {$target}.
+interaction-HelpUp-success-self-popup = Вы помогаете встать {$target}.
+interaction-HelpUp-success-target-popup = {$use} помогает вам встать.
+interaction-HelpUp-success-others-popup = {$user} помогает встать {$target}.
+interaction-HelpUp-fail-self-popup = Вы не смогли помочь встать {$target}.
+interaction-HelpUp-fail-target-popup = {$user} не смог вам помочь
+
+interaction-ForceDown-name = Положить на пол
+interaction-ForceDown-description = Заставить существо лечь на пол.
+interaction-ForceDown-delayed-self-popup = Вы пытаетесь положить {$target}...
+interaction-ForceDown-delayed-target-popup = {$user} пытается положить вас...
+interaction-ForceDown-delayed-others-popup = {$user} пытается положить {$target}...
+interaction-ForceDown-success-self-popup = Вы заставляете {$target} лечь на пол
+interaction-ForceDown-success-target-popup = {$user} заставляет вас лечь на пол
+interaction-ForceDown-success-others-popup = {$user} заставляет {$target} лечь на пол.
+interaction-ForceDown-fail-self-popup = Вы не смогли уложить на пол {$target}.
+interaction-ForceDown-fail-target-popup = {$user} не смог уложить вас.
+
+interaction-MakeSleepOther-name = Усыпить
+interaction-MakeSleepOther-description = Усыпите цель.
+interaction-MakeSleepOther-delayed-self-popup = Вы пытаетесь усыпить {$target}...
+interaction-MakeSleepOther-delayed-target-popup = {$user} пытается усыпить вас...
+interaction-MakeSleepOther-delayed-others-popup = {$user} пытается усыпить {$target}...
+interaction-MakeSleepOther-fail-self-popup = Вы не смогли усыпить {$target}.
+interaction-MakeSleepOther-fail-target-popup = {$user} не смог усыпить вас.
+interaction-MakeSleepOther-success-self-popup = Вы усыпляете {$target}.
+interaction-MakeSleepOther-success-target-popup = {$user} усыпляет вас.
+interaction-MakeSleepOther-success-others-popup = {$user} усыпляет {$target}.
+
+interaction-ShakeOther-name = Встряхнуть
+interaction-ShakeOther-description = Встряхнуть цель.
+interaction-ShakeOther-fail-self-popup = Вам каким-то образом не удаётся встряхнуть {$target}.
+interaction-ShakeOther-fail-target-popup = {$user} каким-то образом не смог встряхнуть вас.
+interaction-ShakeOther-success-self-popup = Вы хватаете и встряхиваете {$target}.
+interaction-ShakeOther-success-target-popup = {$user} хватает и встряхивает вас.
+interaction-ShakeOther-success-others-popup = {$user} хватает и встряхивает {$target}.
