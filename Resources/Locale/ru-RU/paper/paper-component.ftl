@@ -1,14 +1,14 @@
 
 ### UI
 
-paper-ui-blank-page-message = This page intentionally left blank
+paper-ui-blank-page-message = Страница специально оставлена пустой.
 
 # Shown when paper with words examined details
-paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} has something written on it.
+paper-component-examine-detail-has-words = Кажется, на {$paper} что-то написано.
 # Shown when paper with stamps examined
-paper-component-examine-detail-stamped-by = {CAPITALIZE(THE($paper))} {CONJUGATE-HAVE($paper)} been stamped by: {$stamps}.
+paper-component-examine-detail-stamped-by = На {$paper} нанесена печать: {$stamps}.
 
-paper-component-action-stamp-paper-other = {CAPITALIZE(THE($user))} stamps {THE($target)} with {THE($stamp)}.
-paper-component-action-stamp-paper-self = You stamp {THE($target)} with {THE($stamp)}.
+paper-component-action-stamp-paper-other = {CAPITALIZE($user)} наносит штамп {$stamp} на {$target}.
+paper-component-action-stamp-paper-self = Вы наносите штамп {$stamp} на {$target}.
 
-paper-ui-save-button = Save ({$keybind})
+paper-ui-save-button = Сохранить ({$keybind})
