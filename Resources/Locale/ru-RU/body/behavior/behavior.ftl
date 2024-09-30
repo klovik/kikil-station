@@ -1,1 +1,1 @@
-lung-behavior-gasp = Хрип
+lung-behavior-gasp = Задыхается
