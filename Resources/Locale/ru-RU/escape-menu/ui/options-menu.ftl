@@ -36,6 +36,13 @@ ui-options-restart-sounds = Звуки Перезапуска Раунда
 ui-options-event-music = Ивент Музыка
 ui-options-admin-sounds = Админ Звуки
 ui-options-volume-label = Громкость
+<<<<<<< Updated upstream
+=======
+ui-options-display-label = Дисплей
+ui-options-quality-label = Качество
+ui-options-misc-label = Разное
+ui-options-interface-label = Интерфейс
+>>>>>>> Stashed changes
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
 ## Graphics menu
